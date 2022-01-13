@@ -234,7 +234,7 @@ Index,Sentences,Annotation
 26140,"Now, Republican campaign slogans - you'll see them on signs around the country as you did last week - say it's experience that counts - that's over a picture of yourself; sir uh - implying that you've had more governmental executive decision-making uh - experience than uh - your opponent.",Claim
 26430,"Now, in his news conference on August twenty-fourth, President Eisenhower was asked to give one example of a major idea of yours that he adopted.",None
 26576,"His reply was, and I'm quoting; ""If you give me a week I might think of one.",None
-26653,"I don't remember.""",None
+26653,I don't remember.",None
 26672,"Now that was a month ago, sir, and the President hasn't brought it up since, and I'm wondering, sir, if you can clarify which version is correct - the one put out by Republican campaign leaders or the one put out by President Eisenhower?",None
 26917,"Well, I would suggest, Mr. Vanocur, that uh - if you know the President, that was probably a facetious remark.",None
 27028,"Uh - I would also suggest that insofar as his statement is concerned, that I think it would be improper for the President of the United States to disclose uh - the instances in which members of his official family had made recommendations, as I have made them through the years to him, which he has accepted or rejected.",Claim
@@ -1215,8 +1215,8 @@ Index,Sentences,Annotation
 18479,I do not suggest that Chiang Kai-shek - and this Administration has been attempting since 1955 to persuade Chiang Kai-shek to lessen his troop commitments.,None
 18635,Uh - He sent a mission - the President - in 1955 of Mr. uh - Robertson and Admiral Radford.,None
 18727,General Twining said they were still doing it in 1959.,Premise
-18782,"General Ridgway said - who was Chief of Staff: ""To go to war for Quemoy and Matsu to me would seem an unwarranted and tragic course to take.",Premise
-18923,"To me that concept is completely repugnant.""",Premise
+18782,General Ridgway said - who was Chief of Staff: "To go to war for Quemoy and Matsu to me would seem an unwarranted and tragic course to take.,Premise
+18923,To me that concept is completely repugnant.",Premise
 18968,So I stand with them.,Premise
 18990,"I stand with the Secretary of State, Mr. Herter, who said these islands were indefensible.",Premise
 19081,"I believe that we should meet our commitments, and if the Chinese Communists attack the Pescadores and Formosa, they know that it will mean a war.",Claim
@@ -3438,7 +3438,7 @@ Index,Sentences,Annotation
 14763,"And then just a day or two ago, the attorney general of the United States made a further investigation and came to precisely the same conclusion.",Premise
 14909,"Now, after all of those investigations by objective, responsible people, I think the matter is closed once and for all.",Premise
 15029,"But to add one other feature, I don't control any of the tapes.",Claim
-15093,"Those tapes are in the jurisdiction of the courts and I have no right to say ""yes"" or ""no.""",Premise
+15093,Those tapes are in the jurisdiction of the courts and I have no right to say "yes" or "no.",Premise
 15185,"But all the committees, the attorney general, the special prosecutor, all of them have given me a clean bill of health.",Premise
 15305,I think the matter is settled once and for all.,Claim
 15362,"Well, Mr. President, if I do say so though, the question is that I think that you still have not gone into details about what your role in it was.",Claim
@@ -4248,7 +4248,7 @@ Index,Sentences,Annotation
 36681,Let me say this.,None
 36698,I think my programs are far less inflationary than those of Governor Reagan.,Claim
 36775,"His own running mate, when he was running for the Presidency, said that they would cost 30% inflation inside of two years, and he cited his leading economic advisor, a very distinguished economist, Paul Macavoy, as the source of that information.",Premise
-37022,"He went so far as to call it ""brutal economics.""",Premise
+37022,He went so far as to call it "brutal economics.",Premise
 37071,I've been very careful - I have been very careful in saying that what I'm going to do is to bring Federal spending under control first.,None
 37207,"I would like to stand here and promise the American people a tax cut, as Governor Reagan has done.",Premise
 37306,"But, you know, it's gotten to be about $122 difference.",Premise
@@ -4627,8 +4627,8 @@ Index,Sentences,Annotation
 24988,And this was the spot at which President Carter had promised that he was going to bring in a vast program to rebuild this department.,Premise
 25122,"There are whole or this area there are whole blocks of land that are left bare, just bulldozed down flat.",Premise
 25228,"And nothing has been done, and they are now charging to take tourists there to see this terrible desolation.",Claim
-25337,"I talked to a man just briefly there who asked me one simple question: ""Do I have reason to hope that I can someday take care of my family again?",None
-25483,"Nothing has been done.""",None
+25337,I talked to a man just briefly there who asked me one simple question: "Do I have reason to hope that I can someday take care of my family again?,None
+25483,Nothing has been done.",None
 25515,Follow-up.,None
 25526,Mr. Hilliard,None
 25549,Yes.,None
@@ -5199,7 +5199,7 @@ Index,Sentences,Annotation
 11033,"So, there is no ratio between taxing and balancing a budget.",Claim
 11094,"Whether you borrow the money or whether you simply tax it away from the people, you're taking the same amount of money out of the private sector, unless and until you bring down government's share of what it is taking.",Claim
 11313,"With regard to Social Security, I hope there'll be more time than just this minute to mention that, but I will say this: A President should never say ""never.''",Claim
-11473,"But I'm going to violate that rule and say ""never.''",Claim
+11473,But I'm going to violate that rule and say "never.'',Claim
 11526,I will never stand for a reduction of the Social Security benefits to the people that are now getting them.,Claim
 11645,Mr. Mondale?,None
 11668,"Well, that's exactly the commitment that was made to the American people in 1980: He would never reduce benefits.",Premise
@@ -5439,7 +5439,7 @@ Index,Sentences,Annotation
 39132,"Mr. Mondale, now it's your turn for rebuttal.",None
 39188,"The President says that when the Democratic Party made its turn, he left it.",None
 39265,The year that he decided we had lost our way was the year that John F. Kennedy was running against Richard Nixon.,None
-39379,"I was chairman of ""Minnesotans for Kennedy;'' President Reagan was chairman of a thing called ""Democrats for Nixon.''",Premise
+39379,I was chairman of "Minnesotans for Kennedy;'' President Reagan was chairman of a thing called "Democrats for Nixon.'',Premise
 39497,"Now, maybe we made a wrong turn with Kennedy, but I'll be proud of supporting him all of my life.",Claim
 39595,"And I'm very happy that John Kennedy was elected, because John Kennedy looked at the future with courage, saw what needed to be done, and understood his own government.",Premise
 39764,The President just said that his government is shrinking.,Premise
@@ -5480,7 +5480,7 @@ Index,Sentences,Annotation
 43265,"Also, there is a strange dichotomy in this whole position about our courts ruling that abortion is not the taking of a human life.",None
 43396,"In California, sometime ago, a man beat a woman so savagely that her unborn child was born dead with a fractured skull, and the California State Legislature unanimously passed a law that was signed by the then-Democratic Governor -- signed a law that said that any man who so abuses a pregnant woman that he causes the death of her unborn child shall be charged with murder.",Premise
 43771,"Now, isn't it strange that that same woman could have taken the life of her unborn child, and it was abortion and not murder, but if somebody else does it, that's murder?",Claim
-43942,"And it used the term ""death of the unborn child.''",Premise
+43942,And it used the term "death of the unborn child.'',Premise
 43994,"So, this has been my feeling about abortion, that we have a problem now to determine -- and all the evidence so far comes down on the side of the unborn child being a living human being.",Claim
 44191,A two-part followup.,None
 44212,"Do I take it from what you've said about the platform, then, that you don't regard the language and don't regard in your own appointments, abortion position a test of any kind for justices -- that it should be?",None
@@ -5816,13 +5816,13 @@ Index,Sentences,Annotation
 79151,"Well, we'll include it in that.",None
 79193,Okay.,None
 79208,"Four years ago, in similar circumstances to this, I asked you, the American people, a question.",None
-79304,"I asked: ""Are you better off than you were 4 years before?''",None
+79304,I asked: "Are you better off than you were 4 years before?'',None
 79365,"The answer to that obviously was no, and as the result, I was elected to this office and promised a new beginning.",None
 79480,"Now, maybe I'm expected to ask that same question again.",None
 79537,"I'm not going to, because I think that all of you -- or not everyone, those people that are in those pockets of poverty and haven't caught up, they couldn't answer the way I would want them to -- but I think that most of the people in this country would say, yes, they are better off than they were 4 years ago.",Claim
 79850,"The question, I think, should be enlarged.",Claim
 79893,Is America better off than it was 4 years ago?,Claim
-79940,"And I believe the answer to that has to also be ""yes.''",None
+79940,And I believe the answer to that has to also be "yes.'',None
 79996,I promised a new beginning.,Claim
 80024,"So far, it is only a beginning.",Claim
 80056,"If the job were finished, I might have thought twice about seeking reelection for this job.",None
@@ -5910,7 +5910,7 @@ Index,Sentences,Annotation
 1306,"Therefore it will be Vice President Bush, Congresswoman Ferraro.",None
 1371,And we begin our questioning with Mr. Mashek.,None
 1426,"John Adams, our nation's first vice-president, once said: ""Today I am nothing.",None
-1505,"Tomorrow I may be everything.""",None
+1505,Tomorrow I may be everything.",None
 1536,"With that in mind, I'd like to ask the following question: Vice President Bush, four years ago, you ran against Mr. Reagan for the Republican nomination.",None
 1690,"You disagreed with him on such issues as the Equal Rights Amendment, abortion, and you labeled his economic policies as voodoo.",None
 1818,Now you apparently agree with him on every issue.,None
@@ -5989,7 +5989,7 @@ Index,Sentences,Annotation
 9277,That's the problem.,Claim
 9297,And I'm not blaming her except for the liberal voting record in the House.,Claim
 9372,They delivered.,None
-9388,They delivered 21 Ã‚Â® percent interest rates.,None
+9388,They delivered 21 ?????percent interest rates.,None
 9435,They delivered what they called malaise.,None
 9476,They delivered interest rates that were right off the charts.,None
 9538,"They delivered take-home pay, checks that were shrinking, and we've delivered optimism.",Premise
@@ -6053,7 +6053,7 @@ Index,Sentences,Annotation
 15771,We've brought more civil rights cases in the Justice Department than the previous administration by far.,Claim
 15876,"We believe in trying something new to help these black teenage kids; the minimum wage differential that says, ""Look,"" to an employer, ""hire these guys.",None
 16028,"And, yes, they're willing to work for slightly less than the minimum wage.",Claim
-16103,"Give 'em a training job in the private sector.""",Claim
+16103,Give 'em a training job in the private sector.",Claim
 16151,"We threw out that old CETA that didn't train people for jobs that existed, simply rammed them onto the government payroll, and we put in a thing called the Job Training Partnership Act.",Claim
 16337,Wonderful new legislation that's helping blacks more and more.,Claim
 16400,We think of civil rights as something like crime in your neighborhoods.,None
@@ -7193,7 +7193,7 @@ Index,Sentences,Annotation
 56876,-- -- and the people of the Soviet Union want it to stop.,None
 56943,"President Reagan, your rebuttal?",Premise
 56985,"Yes, my rebuttal, once again, is that this invention that has just been created here of how I would go about rolling over for the Soviet Union -- no, Mr. Mondale, my idea would be with that defensive weapon that we would sit down with them and then say, ""Now, are you willing to join us?",None
-57273,"Here's what we'' -- give them a demonstration and then say -- ""Here's what we can do.",None
+57273,Here's what we'' -- give them a demonstration and then say -- "Here's what we can do.,None
 57359,"Now, if you're willing to join us in getting rid of all the nuclear weapons in the world, then we'll give you this one, so that we would both know that no one can cheat; that we're both got something that if anyone tries to cheat .",None
 57589,.,None
 57589,.,Claim
@@ -7692,7 +7692,7 @@ Index,Sentences,Annotation
 28442,I don't want my ten year old grandchild to go into an X-rated movie.,Claim
 28511,I like those ratings systems.,Claim
 28541,I don't think they're right to try to take the tax exemption away from the Catholic Church.,Claim
-28633,"I don't want to see the kiddie pornographic laws repealed; I don't want to see ""under God"" come out from our currency.",Claim
+28633,I don't want to see the kiddie pornographic laws repealed; I don't want to see "under God" come out from our currency.,Claim
 28752,"Now, these are all positions of the ACLU.",Claim
 28794,And I don't agree with them.,Claim
 28823,"He has every right to exercise his passion, as what he said, a strong, progressive liberal.",Premise
@@ -8068,7 +8068,7 @@ Index,Sentences,Annotation
 61546,I don't want to go back to the Carter grain embargo on the Soviets.,Claim
 61614,We are once again reliable suppliers and I would never use food as a political tool like our predecessors did.,Claim
 61725,But this is an exciting time.,None
-61755,But all I'm suggesting is let's not be naÃƒÂ¯ve in dealing with the Soviets and make a lot of unilateral cuts hoping against hope that they will match our bid.,Claim
+61755,But all I'm suggesting is let's not be na????ve in dealing with the Soviets and make a lot of unilateral cuts hoping against hope that they will match our bid.,Claim
 61916,Look at the INF treaty.,None
 61940,"And if we haven't learned from the negotiating history on that, we'll never learn.",Claim
 62023,The freeze people were wrong.,Claim
@@ -8100,7 +8100,7 @@ Index,Sentences,Annotation
 64339,It makes real sense.,Claim
 64360,"And as a matter of fact, the system that the administration is now talking about is very different from the one that was originally proposed in 1983.",Claim
 64510,"So, I'm for continued research, but I also want strong conventional forces.",Claim
-64586,"Now, the other day, Mr. Bush said, Ã¢â€°Â¥Well, if we continue with Star War-Star Wars-we have to cut some place.Ã¢â€°Â¤ He hasn't told us where.",Premise
+64586,"Now, the other day, Mr. Bush said, ????????ell, if we continue with Star War-Star Wars-we have to cut some place.????????He hasn't told us where.",Premise
 64732,We know where they're cutting.,Claim
 64763,We know where you're cutting right now.,Premise
 64803,You're cutting into the fiber and muscle of our conventional forces.,Premise
@@ -8222,8 +8222,8 @@ Index,Sentences,Annotation
 73828,The Vice President ignored them.,None
 73861,He says mistakes were made.,Premise
 73889,Very serious mistakes in judgment were made.,Claim
-73934,"He says, Ã¢â€°Â¥Well, let's concede that the administration has been doing business with Noriega.",Claim
-74032,"Has made him a part of our foreign policy and has been funneling aid to Contras through convicted drug dealers.Ã¢â€°Â¤  I think those are very very serious questions of judgment, which those of you who are watching us here tonight have a right to judge and review.",Premise
+73934,"He says, ????????ell, let's concede that the administration has been doing business with Noriega.",Claim
+74032,"Has made him a part of our foreign policy and has been funneling aid to Contras through convicted drug dealers.???????? I think those are very very serious questions of judgment, which those of you who are watching us here tonight have a right to judge and review.",Premise
 74297,We're not going to make those kinds of mistakes.,Claim
 74346,You cannot make concessions to terrorists.,Claim
 74389,"If you do, you invite the taking of more hostages.",None
@@ -8275,9 +8275,9 @@ Index,Sentences,Annotation
 78050,"I try to meet them and I insist that people who work for me meet them, if they don't, they don't stick around very long.",Premise
 78171,But I didn't pick Lloyd Bentsen because he was a clone of Mike Dukakis.,None
 78243,"I picked him because he was somebody who would be a strong Vice President, somebody who would be an active Vice President.",Claim
-78366,"Somebody who would come to me if somebody came up with a crazy idea that we ought to trade arms to the Ayatollah for hostages and say, Ã¢â€°Â¥Mr.",Premise
+78366,"Somebody who would come to me if somebody came up with a crazy idea that we ought to trade arms to the Ayatollah for hostages and say, ????????r.",Premise
 78512,"President, that's wrong.",Premise
-78537,We shouldn't do that.Ã¢â€°Â¤ That's the kind of Vice President I want.,Claim
+78537,We shouldn't do that.????????That's the kind of Vice President I want.,Claim
 78609,"He, himself, has said, and rightly so, that he'll be a strong Vice President.",Claim
 78687,"When the Vice President makes a decision, that will be his decision.",Premise
 78756,And I'm very very proud of that choice.,Claim
@@ -8353,9 +8353,9 @@ Index,Sentences,Annotation
 85152,We've had a chance to spell out our differences on the Pledge of Allegiance here tonight and on tough sentencing of drug king pins and this kind of thing.,None
 85307,And I do favor the death penalty.,None
 85341,And we've got a wide array of differences on those.,Claim
-85393,"But in the final analysis-in the final analysis, the person goes into that voting booth, they're going to say, Ã¢â€°Â¥Who has the values I believe in?",None
+85393,"But in the final analysis-in the final analysis, the person goes into that voting booth, they're going to say, ????????ho has the values I believe in?",None
 85544,Who has the experience that we trust?,None
-85582,"Who has the integrity and stability to get the job done?Ã¢â€°Â¤ My fellow Americans, I am that man and I ask for your support.",None
+85582,"Who has the integrity and stability to get the job done?????????My fellow Americans, I am that man and I ask for your support.",None
 85709,Thank you very much.,
 85731,(Applause),
 10,"On behalf of the Commission on Presidential Debates, I am pleased to welcome you to this Vice Presidential debate.",None
@@ -8685,7 +8685,7 @@ Index,Sentences,Annotation
 33706,You have a $60 billion trade surplus with us.,None
 33752,You could improve the standard of living of your people.,None
 33809,You're spending 27 percent of your disposable income.,None
-33863,"We spend 14 or 15 percent.""",None
+33863,We spend 14 or 15 percent.",None
 33891,"""When you have that kind of barrier up against us, that's not free and fair trade and we don't believe that should continue.""",None
 34017,We would be pushing very hard to open up those markets and stand up for the American farmer and see that we recapture those foreign markets and I think we can do it with the Dukakis-Bentsen administration.,Claim
 34234,Senator Quayle?,None
@@ -9544,7 +9544,7 @@ Index,Sentences,Annotation
 35916,"Rayburn says, yeah, and that guy never ran for sheriff either.",None
 35979,"Michael Dukakis has run for sheriff, and so has George Bush.",None
 36047,"Governor, a one-minute response.",None
-36090,"I didn't hear the word ""liberal"" or ""left"" one time.",None
+36090,I didn't hear the word "liberal" or "left" one time.,None
 36143,I thank you for that.,None
 36172,That's not bad.,Claim
 36188,That's true.,Claim
@@ -10165,7 +10165,7 @@ Index,Sentences,Annotation
 6217,(Laughter.),None
 6229,I don't have any experience in gridlock government where nobody takes responsibility for anything and everybody blames everybody else.,Premise
 6364,"I don't have any experience in creating the worst public school system in the industrialized world, the most violent crime-ridden society in the industrialized world.",Premise
-6531,Ã‚&nbsp;But I do have a lot of experience in getting things done.,Claim
+6531,???nbsp;But I do have a lot of experience in getting things done.,Claim
 6597,"So, if we're at a point in history where we want to stop talking about it and do it, I've got a lot of experience in figuring out how to solve problems, making the solutions work, and then moving on to the next one.",Claim
 6813,I've got a lot of experience in not taking 10 years to solve a 10-minute problem.,None
 6895,"So, if it's time for action, I think I have experience that counts.",Premise
@@ -10204,7 +10204,7 @@ Index,Sentences,Annotation
 9673,"But, I think it's very important to measure when and where things occurred.",Claim
 9749,"Did they occur when you were a young person, in your formative years?",None
 9819,Or did they occur while you were a senior official in the federal government?,Premise
-9897,"When youÃ¢â‚¬â„¢re a senior official in the federal government spending billions of dollars in taxpayerÃ¢â‚¬â„¢s money and youÃ¢â‚¬â„¢re a mature individual and you make a mistake, then that was on our ticket.",Premise
+9897,"When you???????�??e a senior official in the federal government spending billions of dollars in taxpayer???????�?? money and you???????�??e a mature individual and you make a mistake, then that was on our ticket.",Premise
 10107,"If you make it as a young man, time passes.",Premise
 10151,"So I would say just, you know, look at all three of us.",Premise
 10207,Decide who you think will do the job.,None
@@ -10344,7 +10344,7 @@ Index,Sentences,Annotation
 21469,Why punish the middle class consumer to such a degree?,Premise
 21532,It's 10 cents a year cumulative.,Premise
 21565,It finally gets to 50 cents at the end of the 5th year.,Claim
-21621,"I think ""punish"" is the wrong word.",Premise
+21621,I think "punish" is the wrong word.,Premise
 21657,"Again, see, I didn't create this problem.",Claim
 21699,We're trying to solve it.,None
 21725,"Now, if you study our international competitors, some of our international competitors collect up to $3.50 a gallon in taxes, and they use that money to build infrastructure and to create jobs.",Premise
@@ -10535,7 +10535,7 @@ Index,Sentences,Annotation
 38566,I think the government's spending too much.,None
 38610,So Governor Clinton can label it tax for the rich or anything he wants.,Claim
 38682,"I'm going to protect the working man by continuing to veto, and to threaten to veto until we get this new Congress, and then we're going to move forward on our plan.",Claim
-38848,IÃ¢â‚¬â„¢ve got to protect them.,None
+38848,I???????�??e got to protect them.,None
 38890,"Mr. Perot, one minute.",Claim
 38921,"Keep the Federal Reserve independent, but let's live in a world of reality.",Premise
 38997,"We live in a global economy, not a national economy.",Claim
@@ -10613,7 +10613,7 @@ Index,Sentences,Annotation
 44224,"And thank God, it has, because the parents of these young people around here go to bed at night without the same fear of nuclear war.",Claim
 44358,We made dramatic progress.,Claim
 44385,"And so, we've got a good military.",None
-44420,"the question, to sort of get a new military, get the best in the world, we got it, and theyÃ¢â‚¬â„¢re keeping the peace, and they're respected around the world.",Premise
+44420,"the question, to sort of get a new military, get the best in the world, we got it, and they???????�??e keeping the peace, and they're respected around the world.",Premise
 44581,And we're more respected because of the way we have conducted ourselves.,Premise
 44654,We didn't listen to the nuclear freeze crowd.,Premise
 44700,"We said, ""Peace through strength,"" and it worked and the cold war is over.",Premise
@@ -10656,7 +10656,7 @@ Index,Sentences,Annotation
 47761,"And I've stood up with these people, and I understand what you have to do to be strong in this situation, and it's moving, not as fast as we'd like.",Claim
 47910,"But you isolate China and turn them inward, and then we've made a tremendous mistake.",Claim
 47996,And I'm not going to do it.,Premise
-48024,"And I've had to fight a lot of people that were saying human rights, and weÃ¢â‚¬â„¢re the ones that put the sanctions on and stood for it.",Premise
+48024,"And I've had to fight a lot of people that were saying human rights, and we???????�??e the ones that put the sanctions on and stood for it.",Premise
 48163,And he can insult General Scowcroft if he wants to.,Claim
 48215,They didn't go over to coddle.,Claim
 48246,He went over to say we must make the very changes they're making now.,None
@@ -10981,7 +10981,7 @@ Index,Sentences,Annotation
 9121,"I have not had the experience of these gentlemen, but -- to be any more specific -- but I know I have his trust, and I intend to act in a way to keep that situation alive.",Claim
 9293,Thank you.,None
 9313,Senator Gore.,None
-9334,"Bill Clinton understands the meaning of the words ""teamwork"" and ""partnership.""",Claim
+9334,Bill Clinton understands the meaning of the words "teamwork" and "partnership.",Claim
 9414,"If we're successful in our efforts to gain your trust and lead this nation, we will work together to put our country back on the right track again.",Premise
 9562,The experience that George Bush and Dan Quayle have been talking about includes the worst economic performance since the Great Depression.,Premise
 9701,"Unemployment is up, personal income is down, bankruptcies are up, housing starts are down.",Premise
@@ -11003,7 +11003,7 @@ Index,Sentences,Annotation
 11155,"But when you're president of the US or when you're vice president and you have to fill in like I did the night of the crisis in the Philippines, you've got to make a decision, you've got to make up your mind.",Premise
 11364,"Bill Clinton, running for president of the US, said this about the Persian Gulf war.",Premise
 11449,"He said: ""Had I been in the Senate, I would have voted with the majority, if it was a close vote.",None
-11547,"But I agreed with the arguments of the minority.""",None
+11547,But I agreed with the arguments of the minority.",None
 11597,"You can't have it both ways, you have to make a decision.",Claim
 11655,"You cannot sit there in an international crisis --  (APPLAUSE)  -- and sit there and say, well, on the one hand, this is okay, and, on the other hand, this is okay.",Claim
 11820,You've got to make the decision.,Claim
@@ -11022,7 +11022,7 @@ Index,Sentences,Annotation
 12598,"This is not the Senate, where you can trade off time.",None
 12652,"Go ahead, Senator Gore.",None
 12683,"I'll let you all figure out the rules, I've got some points that I want to make here, and I still haven't gotten an answer to my question on when you guys are going to start worrying about this country, but I want to elaborate on it before --",None
-12935,Why doesn't the Democratic Congress -- why doesn't the Democratic Congress pass the presidentÃ¢â‚¬â„¢s bill?,None
+12935,Why doesn't the Democratic Congress -- why doesn't the Democratic Congress pass the president???????�?? bill?,None
 13052,"Mr. Vice President, let him say his thoughts, and then you can come in.",None
 13131,I was very patient in letting you get off that string of attacks.,Premise
 13197,We've been listening to --,None
@@ -11058,7 +11058,7 @@ Index,Sentences,Annotation
 15439,If you won't answer my question I will answer yours.,None
 15501,I have not asked you a question.,None
 15534,I've made a statement.,None
-15557,"I have not asked you a question, IÃ¢â‚¬â„¢ve made a statement that you have not told us why Bill Clinton is qualified to be president of the US.",None
+15557,"I have not asked you a question, I???????�??e made a statement that you have not told us why Bill Clinton is qualified to be president of the US.",None
 15702,I pointed out what he said about the Persian Gulf War.,None
 15757,But let me repeat it for you.,None
 15787,"Here's what he said, Senator.",None
@@ -11122,7 +11122,7 @@ Index,Sentences,Annotation
 20422,"But let's talk -- you know, you keep talking about trickle-down economics and all this stuff, about the worst economy since Hoover.",Claim
 20554,It is a bad economy.,Claim
 20575,It's a tough economy.,Claim
-20597,The question isn't -- it's not who you're going to blame; itÃ¢â‚¬â„¢s what are you going to do about it?,Premise
+20597,The question isn't -- it's not who you're going to blame; it???????�?? what are you going to do about it?,Premise
 20702,Your proposal it to raise $150 billion in taxes.,Premise
 20751,To raise $220 billion in new spending.,Claim
 20797,No.,None
@@ -11509,7 +11509,7 @@ Index,Sentences,Annotation
 51790,Did you require it?,None
 51839,My turn -- (holding hand up at Gore),None
 51883,Did you require (inaudible) -- (Simultaneous conversation),None
-51952,LightenÃ¢â‚¬â„¢ up Al.,None
+51952,Lighten???????�??up Al.,None
 51975,My turn.,None
 51991,It's a free discussion.,None
 52024,"Take a breath, Al.",None
@@ -12584,7 +12584,7 @@ Index,Sentences,Annotation
 52459,"I think what he should have done is gone before the American people on the front end and said listen, I made a commitment and it was wrong.",None
 52599,I made a mistake because I couldn't have foreseen these circumstances and this is the best deal we can work out at the time.,Premise
 52724,"He said it was in the public interest at the time and most everybody who was involved in it, I guess, thought it was.",Claim
-52842,"The real mistake was the ""read my lips"" promise in the first place.",Premise
+52842,The real mistake was the "read my lips" promise in the first place.,Premise
 52910,You just can't promise something like that just to get elected if you know there's a good chance that circumstances may overtake you.,None
 53054,"All right, Mr. Perot, the question is for you.",None
 53101,"You have a 2-minute answer, and it will be asked by Susan Rook.",None
@@ -12921,7 +12921,7 @@ Index,Sentences,Annotation
 81408,I am not gonna raise taxes on the middle class to pay for these programs.,Premise
 81483,"Now furthermore, I am not gonna tell you ""read my lips"" on anything because I cannot foresee what emergencies might develop in this country.",Premise
 81624,"And the president said never, never, never would he raise taxes in New Jersey, and within a day Marlin Fitzwater, his spokesman, said now, that's not a promise.",Claim
-81786,"So I think even he has learned that you can't say ""read my lips"" because you can't know what emergencies might come up.",None
+81786,So I think even he has learned that you can't say "read my lips" because you can't know what emergencies might come up.,None
 81906,But I can tell you this.,Claim
 81931,I'm not gonna raise taxes on middle class Americans to pay for the programs I've recommended.,None
 82025,Read my plan.,None
@@ -13029,7 +13029,7 @@ Index,Sentences,Annotation
 89612,Keep in mind a factory worker has nothing to do with anything except putting it together on the factory floor.,Claim
 89723,It's our obligation to make sure that we give him the finest products in the world to put together and we don't break his legs in the process.,None
 89876,"Governor Clinton, one minute.",Premise
-89916,"I really can't believe Mr. Bush is still trying to make trust an issue after ""read my lips"" and 15 million new jobs and embracing what he called voodoo economics and embracing an export enhancement program for farmers he threatened to veto and going all around the country giving out money in programs that he once opposed.",Premise
+89916,I really can't believe Mr. Bush is still trying to make trust an issue after "read my lips" and 15 million new jobs and embracing what he called voodoo economics and embracing an export enhancement program for farmers he threatened to veto and going all around the country giving out money in programs that he once opposed.,Premise
 90240,"But the main thing is he still didn't get it, from what he said the other night to that fine woman on our program, the 209 people in Richmond.",None
 90383,They don't want us talking about each other.,None
 90428,They want us to talk about the problems of this country.,Claim
@@ -13099,7 +13099,7 @@ Index,Sentences,Annotation
 95642,"Now, you got to stop letting these people tell you who to vote for, you got to stop letting these folks in the press tell you you're throwing your vote away -- you got to start using your own head.",None
 95841,"(APPLAUSE)  Then the question is, can we govern?",None
 95890,I love that one.,None
-95907,"The ""we"" is you and me.",Claim
+95907,The "we" is you and me.,Claim
 95931,"You bet your hat we can govern because we will be in there together and we will figure out what to do, and you won't tolerate gridlock, you won't tolerate endless meandering and wandering around, and you won't tolerate non-performance.",Premise
 96167,"And, believe me, anybody that knows me understands I have a very low tolerance for non-performance also.",Claim
 96272,Together we can get anything done.,None
@@ -13261,7 +13261,7 @@ Index,Sentences,Annotation
 12674,Somebody somewhere has to take responsibility for this.,None
 12731,"Put it to you bluntly, American people.",None
 12771,"If you want me to be your president, we're going to face our problems.",None
-12842,"WeÃ¢â‚¬â„¢ll deal with our problems, weÃ¢â‚¬â„¢ll solve our problems.",Claim
+12842,"We???????�??l deal with our problems, we???????�??l solve our problems.",Claim
 12912,We'll down our debt.,Claim
 12933,"We'll pass on the American dream to our children, and I will not leave our children a situation that they have today.",Premise
 13052,When I was a boy it took 2 generations to double the standard of living.,Premise
@@ -13335,7 +13335,7 @@ Index,Sentences,Annotation
 18445,He's got over $100 billion of tax cuts and incentives.,Premise
 18500,"So I'm not going to take up your time tonight, but let me just say this.",None
 18573,We'll have a debate in 4 days and we can talk about this character thing again.,Claim
-18653,"But the Washington Post ran a long editorial today saying they couldn't believe Mr. Bush was making character an issue and they said he was the greatest quote ""political chameleon"" for changing his positions of all times.",Claim
+18653,But the Washington Post ran a long editorial today saying they couldn't believe Mr. Bush was making character an issue and they said he was the greatest quote "political chameleon" for changing his positions of all times.,Claim
 18875,"Now, I don't want to get into that --",None
 18921,Please don't get into the Washington Post.,None
 18974,Wait a minute.,None
@@ -13347,7 +13347,7 @@ Index,Sentences,Annotation
 19281,So I think you're right and I hope the rest of the night belongs to you.,Premise
 19364,May I -- I talked to this audience before you gentlemen came and I asked them about how they felt about the tenor of the campaign.,None
 19495,"Would you like to let them know what you thought about that, when I said are you pleased with how the campaign's been going?",None
-19620,"(Audience: ""No."")",None
+19620,(Audience: "No."),None
 19648,Who wants to say why you don't like the way the campaign is going?,None
 19715,We have a gentleman back here.,None
 19766,And forgive the notes here but I'm shy on camera.,None
@@ -14789,7 +14789,7 @@ Index,Sentences,Annotation
 35842,"The proliferation of weapons of mass destruction, organized crime, and we have worked hard to expand America's economic presence around the world with the biggest increase in trade with the largest new number of trade agreements in history And that's one of the reasons America is number one in auto production again.",Premise
 36170,Senator.,None
 36186,"Well, I have a different view.",None
-36217,"Again, IÃ¢â‚¬â„¢ve supported the President on Bosnia, and I think we were told the troops would be out in a year.",Premise
+36217,"Again, I???????�??e supported the President on Bosnia, and I think we were told the troops would be out in a year.",Premise
 36331,Now I understand it's been extended 'til some time next year.,None
 36393,"But, let's start with Somalia, where they dragged Americans through the streets, and where 18 Americans were killed one day, because they didn't have, they were pinned down for eight hours, the rangers.",Premise
 36596,"They didn't have the weapons, they didn't have the tanks.",Premise
@@ -15441,7 +15441,7 @@ Index,Sentences,Annotation
 93285,Thank you.,None
 93296,God bless America.,
 8,"Good evening from the Mahaffey Theater at the Bayfront Center in St. Petersburg, Florida.",None
-98,"I'm Jim Lehrer of the ""News Hour"" on PBS.",None
+98,I'm Jim Lehrer of the "News Hour" on PBS.,None
 140,"Welcome to the 1996 Vice Presidential Debate between Vice President Al Gore, the democratic nominee, and Jack Kemp, the republican nominee.",None
 280,This event is sponsored by the Commission on Presidential Debates.,None
 347,"The rules and format, as drawn and agreed to by the two campaigns are almost identical to those of the presidential debate last Sunday night in Hartford.",None
@@ -15485,7 +15485,7 @@ Index,Sentences,Annotation
 3354,"Creating millions of new jobs, including one million new jobs in America's inner cities.",None
 3443,"I'm excited about the chance to talk about this plan and even more excited about the chance to work on it, if you, the people of this country, will give Bill Clinton and me the privilege of doing so for four more years.",None
 3672,Mr. Kemp?,None
-3689,"I really got only two differences with Bill Clinton -- Ã‚ President Clinton and Mr. Gore, foreign policy and domestic policy.",Claim
+3689,"I really got only two differences with Bill Clinton -- ???President Clinton and Mr. Gore, foreign policy and domestic policy.",Claim
 3815,"Our foreign policy is ambivalent, confusing, it is sending strong signals to the wrong people, and we have learned over the years that weakness is provocative, but domestic economy is not doing what it can do.",Premise
 4025,This President believes we are at our capacity.,Claim
 4073,Bob Dole and I believe we can do a lot better.,Premise
@@ -15505,7 +15505,7 @@ Index,Sentences,Annotation
 5814,Our education is not up to the standards that the American family and the American people want for their children.,None
 5929,"And, clearly, the welfare system is a disgrace to our Judeo-Christian principles.",Claim
 6011,"It is not the values of the poor that should be called into question, it is the values of the welfare system from Washington and uh that prevent people from climbing out of poverty.",None
-6193,"Our biggest debate with this administration on domestic policy is that they think we're at our fullest capacity, that weÃ¢â‚¬â„¢ve reached our potential and 2.5 percent growth is enough for America.",Claim
+6193,"Our biggest debate with this administration on domestic policy is that they think we're at our fullest capacity, that we???????�??e reached our potential and 2.5 percent growth is enough for America.",Claim
 6392,"Frankly, that is not good enough for this country.",Premise
 6443,We can not just run the clock out on the 20th Century.,None
 6498,"It, clearly, we need to lower the tax rate across the board on working and saving and investing.",Claim
@@ -15704,7 +15704,7 @@ Index,Sentences,Annotation
 28560,"This means more jobs, more wealth, more income and more capital, particularly for our nation's poor and those left behind.",None
 28690,"Mr. Lehrer, our balanced budget plan extends the Medicare Trust Fund ten years into the future.",Claim
 28786,"A commission is fine, but a commission would not do any good if we adopted this risky $550-billion tax scheme.",Premise
-28897,"The word ""scary"" has been used.",Premise
+28897,The word "scary" has been used.,Premise
 28929,"A couple of days ago I went with Governor Lawton Chiles, who was here, to Sarasota to the Friendship Senior Center.",None
 29045,"I talked with a woman there named Dorothy Wornell and she said, ""You know, we may not be as sophisticated as some of those people in Washington, but we can add and subtract.""",None
 29220,Here are the numbers she's adding and subtracting.,Claim
@@ -16052,7 +16052,7 @@ Index,Sentences,Annotation
 62064,"In the next four years, we will pass it.",None
 62112,"Well, to say that this is the best economy in 30 years just staggers the imagination.",Claim
 62198,We have a growth rate of the last four years of about two and a half percent.,None
-62276,My friend Al Gore says itÃ¢â‚¬â„¢s better than the Reagan years.,None
+62276,My friend Al Gore says it???????�?? better than the Reagan years.,None
 62341,It isn't.,None
 62351,But irrespective of whether he thinks it is or not means less than fact that this country cannot morally and socially and economically accept an economy running out the clock on the 20th Century.,Premise
 62547,We're treading water.,Premise
@@ -16394,7 +16394,7 @@ Index,Sentences,Annotation
 13829,We need to help people who are between jobs.,Claim
 13874,We need to cover more kids.,Claim
 13902,Provide more preventative care.,Claim
-13934,"My balanced budget covers mammograms for ladies, women on Medicare and also gives respite care to the million-plus families who have someone with AlzheimerÃ¢â‚¬â„¢s.",Claim
+13934,"My balanced budget covers mammograms for ladies, women on Medicare and also gives respite care to the million-plus families who have someone with Alzheimer???????�??.",Claim
 14100,These things are paid for in the balanced budget plan.,Premise
 14155,It'll move us forward.,None
 14187,Next question is for Senator Dole from here.,None
@@ -16592,7 +16592,7 @@ Index,Sentences,Annotation
 30205,I told them in early '95.,Premise
 30231,Senator Dole said 30 years ago he was one of 12 people who voted against Medicare and he was proud of it.,Premise
 30337,"A year ago he said, ""I was right then.",Premise
-30376,"I knew it wouldn't work.""",Claim
+30376,I knew it wouldn't work.",Claim
 30402,American seniors have the highest life expectancy in the world.,Claim
 30466,We need to reform it.,Premise
 30488,Not wreck it.,None
@@ -16867,7 +16867,7 @@ Index,Sentences,Annotation
 49135,"Your targeted tax cut, Mr. President, never hits anybody.",Premise
 49193,That's the problem with it.,Premise
 49221,Nobody ever gets it.,None
-49242,"But I must say I'm a little offended by this word ""scheme.""",Premise
+49242,But I must say I'm a little offended by this word "scheme.",Premise
 49302,"You talked about it last time, you talked about a risky scheme and Vice President Gore repeated it about ten times in St. Petersburg.",Premise
 49436,"If I have anything in politics, it's my word.",Claim
 49482,"My colleagues, Democrats and Republicans, will tell you that Bob Dole kept his word.",Premise
@@ -16947,7 +16947,7 @@ Index,Sentences,Annotation
 54563,We're going to do that with an economic package.,Claim
 54612,We're going to do that with regulatory reform.,None
 54659,"You know, regulations cost the average family right here, Democrat or Republican, about $7,000 a year.",Claim
-54762,"7,000.",Premise
+54762,"7,000.00",Premise
 54769,That's like a tax.,Claim
 54788,It's put a lot of people out of business.,Premise
 54830,I met a lady in Colorado Springs about seven weeks ago now.,Premise
@@ -16997,7 +16997,7 @@ Index,Sentences,Annotation
 57637,The president inherited growth of over 5 percent.,Premise
 57687,We don't have the S&amp;L crisis anymore.,Claim
 57729,"Republicans have cut 53 billion dollars in spending, that's why the budget looked good.",Premise
-57817,It didn't look good the first two years when we had a Democratic president and Ã‚ Democratic Congress.,None
+57817,It didn't look good the first two years when we had a Democratic president and ???Democratic Congress.,None
 57929,Next question is for President Clinton.,None
 57969,"Yes, sir.",None
 57990,I'm Bob Goldfarb.,None
@@ -17009,7 +17009,7 @@ Index,Sentences,Annotation
 58550,I'm for it.,None
 58562,"Now, I have a little time left so let me just say that I get attacked so many times on these questions; it's hard to answer these things.",Premise
 58700,Senator Dole just said we had the worst economy in the century.,Premise
-58764,"In February he said we had the best economy in Ã‚ 30 years, just February.",Claim
+58764,"In February he said we had the best economy in ???30 years, just February.",Claim
 58839,And I don't want to respond in kind to all these things.,None
 58896,I could.,Claim
 58905,I could answer a lot of these things tit for tat.,Premise
@@ -17123,7 +17123,7 @@ Index,Sentences,Annotation
 68342,"I have been in politics for some time, and I worry about the people who don't vote.",Claim
 68426,"And I wonder if it's our fault, the candidates' fault.",Premise
 68481,"People say, ""I don't care.",Premise
-68508,"One vote doesn't make a difference.""",Premise
+68508,One vote doesn't make a difference.",Premise
 68545,I can give you hundreds of -- you can probably give me 200 cases where one vote made a difference.,Claim
 68644,I know it made a lot of difference many times in the Congress.,Premise
 68707,Campaign finance might help.,Premise
@@ -17268,7 +17268,7 @@ Index,Sentences,Annotation
 79966,Talking about public ethics.,Premise
 79995,"When you have 900 files gathered up by some guy who is a bouncer in a bar and hired a security officer to collect files, in Watergate -- I know a person who went to jail for looking at one file, one FBI file.",None
 80204,There are 900 sequestered in the White House.,None
-80250,900.,Premise
+80250,900,Premise
 80255,People like you.,Claim
 80272,Why should they be rifling through your files?,Premise
 80319,The president has a great responsibility.,Claim
@@ -17299,7 +17299,7 @@ Index,Sentences,Annotation
 82497,"President Clinton, perhaps you can help me with something tonight.",None
 82564,"I heard Mr. Dole say several times ""all of us together,"" and when he was asked if he would support equal rights and employment for gay and lesbian people, you said that you favored that, and he said that he did not believe in special rights.",None
 82806,And I thought the question was equal rights for all people.,None
-82866,"And I don't understand why people are using the term ""special rights"" when the question is ""equal rights.""",None
+82866,And I don't understand why people are using the term "special rights" when the question is "equal rights.",None
 82973,Could you help me in understanding that?,Claim
 83024,"I want to answer your question, but let me say one other thing.",Claim
 83088,"We don't need a constitutional amendment for kids to pray, and what I did was to have the justice department and the education department for the first time ever issue a set of guidelines that we gave to every school in America, saying that children could not be interfered with in religious advocacy when they were praying, when they were doing whatever they could do under the constitution, just because they were on a public school ground, and I think anyone who's experienced this will tell you that our administration has done more than any in years to clarify the freedom of religion in the public square, including in the public schools.",Claim
@@ -17467,7 +17467,7 @@ Index,Sentences,Annotation
 4080,His plan is three times larger than President Clinton's proposed plan eight years ago.,Premise
 4167,"It is a plan that will have 200 new programs -- expanded programs and creates 20,000 new bureaucrats.",Premise
 4269,It it empowers Washington.,Premise
-4296,Tonight youÃ¢â‚¬â„¢re going to hear that my passion and my vision is to empower Americans to be able to make decisions for themselves in their own lives.,Claim
+4296,Tonight you???????�??e going to hear that my passion and my vision is to empower Americans to be able to make decisions for themselves in their own lives.,Claim
 4459,"So I take it by your answer, then, Mr. Vice President, that in an interview recently with the ""New York Times"" when you said that you questioned whether or not Governor Bush has experience enough to be president, you were talking about strictly policy differences.",Claim
 4731,"Yes, Jim.",None
 4741,"I said that his tax cut plan, for example, raises the question of whether it's the right choice for the country.",Claim
@@ -17510,7 +17510,7 @@ Index,Sentences,Annotation
 8068,"That's why I don't think we should give nearly half of it to the wealthiest 1%, because the other 99% have had an awful lot to do with building the surplus in our prosperity.",Premise
 8252,Three-and-a-half minutes is up.,None
 8284,New question.,None
-8305,I hope itÃ¢â‚¬â„¢s about wealthy people.,None
+8305,I hope it???????�?? about wealthy people.,None
 8355,"Governor Bush, you have a question.",None
 8391,This is a companion question to the question I asked Vice President Gore.,None
 8465,You have questioned whether Vice President Gore has demonstrated the leadership qualities necessary to be President of the United States.,None
@@ -17552,7 +17552,7 @@ Index,Sentences,Annotation
 12014,It's just not the way I think and it's not my intentions and not my plan.,Claim
 12088,I want all seniors to have prescription drugs in Medicare.,Claim
 12147,We need to reform Medicare.,Claim
-12175,ThereÃ¢â‚¬â„¢s been opportunity to do so but this administration has failed to do it.,Claim
+12175,There???????�?? been opportunity to do so but this administration has failed to do it.,Claim
 12261,"And so seniors will have not only a Medicare plan where the poor seniors will have prescription drugs paid for, but there will be a variety of options.",Premise
 12413,"The current system today has meant a lot for a lot of seniors, and I really appreciate the intentions of the current system as I mentioned.",Premise
 12553,If you're happy with the system you can stay in it.,Premise
@@ -17571,7 +17571,7 @@ Index,Sentences,Annotation
 13691,Under my plan I will put Medicare in an iron clad lockbox and prevent the money from being used for anything other than Medicare.,Premise
 13821,The governor has declined to endorse that idea even though the Republican as well as Democratic leaders in Congress have endorsed it.,None
 13955,I would be interested to see if he would say this evening he'll put Medicare in a lockbox.,Claim
-14046,I donÃ¢â‚¬â„¢t think he will because under his plan if you work out the numbers Ã‚ $100 billion comes out of Medicare just for the wealthiest 1% in the tax cut.,Premise
+14046,I don???????�?? think he will because under his plan if you work out the numbers ???$100 billion comes out of Medicare just for the wealthiest 1% in the tax cut.,Premise
 14207,Now here is the difference.,None
 14235,Some people who say the word reform actually mean cuts.,Claim
 14291,"Under the governor's plan, if you kept the same fee for service that you have now under Medicare, your premiums would go up by between 18% and 47%, and that is the study of the Congressional plan that he's modeled his proposal on by the Medicare actuaries.",Premise
@@ -17587,7 +17587,7 @@ Index,Sentences,Annotation
 15431,It's called Immediate Helping Hand.,Premise
 15467,"Instead of squabbling and finger pointing, he gets immediate help.",None
 15534,Let me say something.,None
-15565,Your Ã¢â‚¬â€œ,None
+15565,Your ?????????,None
 15598,Can I make another point?,Claim
 15624,"They get $25,000 a year income, that makes them ineligible.",Premise
 15691,"Look, this is a man who has great numbers.",Premise
@@ -17666,7 +17666,7 @@ Index,Sentences,Annotation
 21339,I want to build more pipelines to move natural gas throughout this hemisphere.,Claim
 21418,I want to develop the coal resources in America.,Premise
 21467,Have clean coal technologies.,Claim
-21497,"WeÃ¢â‚¬â„¢ve got abundant supplies of energy here in America and weÃ¢â‚¬â„¢d better get after it, we better start exploring it or otherwise we'll be in deep trouble in the future because of our dependency upon foreign sources of crude.",None
+21497,"We???????�??e got abundant supplies of energy here in America and we???????�?? better get after it, we better start exploring it or otherwise we'll be in deep trouble in the future because of our dependency upon foreign sources of crude.",None
 21742,"So if somebody is watching tonight and listening to what the two of you just said, is it fair to say, okay, the differences between Governor Bush and Vice President Gore are as follows.",Claim
 21928,You're for doing something on the consumption end and you're for doing something on the production end?,None
 22039,Let me clarify.,Claim
@@ -17687,7 +17687,7 @@ Index,Sentences,Annotation
 23347,There's an interesting issue up in the northwest as well.,Claim
 23405,Do we remove dams that produce hydroelectric energy?,Premise
 23458,I'm against removing dams in the northwest.,Premise
-23502,I donÃ¢â‚¬â„¢t know where the vice president stands but thatÃ¢â‚¬â„¢s a renewable energy source of energy.,None
+23502,I don???????�?? know where the vice president stands but that???????�?? a renewable energy source of energy.,None
 23609,We need to keep that in line.,Premise
 23639,I was in coal country in West Virginia yesterday.,Claim
 23689,There is an abundant supply of coal in America.,Claim
@@ -17790,7 +17790,7 @@ Index,Sentences,Annotation
 31420,I would appoint people that have a philosophy that I think would have it quite likely they would uphold Roe v. Wade.,None
 31546,Is the vice president right?,Claim
 31575,Is that a code word for overturning Roe v. Wade?,Premise
-31631,It sounds like the vice presidentÃ¢â‚¬â„¢s not right very many times tonight.,Premise
+31631,It sounds like the vice president???????�?? not right very many times tonight.,Premise
 31709,I just told you the criteria on which I'll appoint judges.,Premise
 31768,I have a record of appointing judges in the State of Texas.,Premise
 31828,That's what a governor gets to do.,None
@@ -17807,7 +17807,7 @@ Index,Sentences,Annotation
 32689,"It is on the ballot in this election, make no mistake about it.",None
 32760,I'll tell you what kind of judges he'll put on.,Claim
 32808,"He'll put liberal activists justices who will use their bench to subvert the legislature, that's what he'll do.",None
-32927,ThatÃ¢â‚¬â„¢s not right.,None
+32927,That???????�?? not right.,None
 32961,"New subject, new question.",Premise
 32988,"Vice President Gore, if President Milosevic of Yugoslavia refuses to accept the election results and leave office, what action, if any, should the United States take to get him out of there?",Premise
 33186,"Well, Milosevic has lost the election.",Premise
@@ -17851,7 +17851,7 @@ Index,Sentences,Annotation
 36545,"I think the governor's instinct is not necessarily bad because we have worked with the Russians in a constructive way in Kosovo, for example, to end the conflict there.",Premise
 36714,But I think we need to be very careful in the present situation before we invite the Russians to play the lead role in mediating.,Claim
 36851,"Well obviously we wouldn't use the Russians if they didn't agree with our answer, Mr. Vice President.",Claim
-36960,They donÃ¢â‚¬â„¢t.,None
+36960,They don???????�??.,None
 36986,"Let me say this to you, I wouldn't use force.",Claim
 37010,I wouldn't use force.,None
 37063,You wouldn't use force?,None
@@ -17892,8 +17892,8 @@ Index,Sentences,Annotation
 39307,Bonus plans to keep some of our high-skilled folks in the services and a commander in chief who clearly sets the mission.,None
 39429,The mission is to fight and win war and therefore prevent war from happening in the first place.,None
 39535,"Vice President Gore, one minute.",Claim
-39575,Let me tell you what IÃ¢â‚¬â„¢ll do.,None
-39612,"First of all Ã‚ I want to make it clear, our military is the strongest, best-trained, best-equipped, best-led fighting force in the world and in the history of the world.",Claim
+39575,Let me tell you what I???????�??l do.,None
+39612,"First of all ???I want to make it clear, our military is the strongest, best-trained, best-equipped, best-led fighting force in the world and in the history of the world.",Claim
 39783,"Nobody should have any doubt about that, least of all our adversaries or potential adversaries.",Claim
 39879,"If you entrust me with the presidency, I will do whatever is necessary in order to make sure our forces stay the strongest in the world.",Claim
 40016,"In fact, in my ten-year budget proposal I've set aside more than twice as much for this purpose as Governor Bush has in his proposal.",Premise
@@ -17911,7 +17911,7 @@ Index,Sentences,Annotation
 41357,There is a problem.,Premise
 41377,And it's going to require a new commander in chief to rebuild the military power.,Premise
 41459,The other day I was honored to be flanked by Colin Powell and General Norman Schwartzkopf recently stood by me side and agreed with me.,Claim
-41595,"They said even if we are the strongest if we donÃ¢â‚¬â„¢t do something if we don't have a clear vision of the military, if we don't stop extending our troops all around the world and nation building missions, then we're going to have a serious problem coming down the road, and I'm going to prevent that.",None
+41595,"They said even if we are the strongest if we don???????�?? do something if we don't have a clear vision of the military, if we don't stop extending our troops all around the world and nation building missions, then we're going to have a serious problem coming down the road, and I'm going to prevent that.",None
 41900,I'm going to rebuild our military power.,None
 41941,It's one of the major priorities of my administration.,Claim
 42005,"Vice President Gore, how should the voters go about deciding which one of you is better suited to make the kinds of decisions, whether it's Milosevic or whatever, in the military and foreign policy area?",Premise
@@ -18039,10 +18039,10 @@ Index,Sentences,Annotation
 51845,I want my fellow Americans to hear one more time.,Claim
 51895,We'll spend $25 trillion -- we'll collect $25 trillion in revenue in the next 10 years and spend $21 trillion.,None
 52006,Surely we can send 5% back to you that pay the bills.,None
-52060,ThereÃ¢â‚¬â„¢s a problem wait.,None
+52060,There???????�?? a problem wait.,None
 52091,"I want to say something, Jim.",Premise
 52121,This man has been disparaging my plan with all this Washington fuzzy math.,None
-52196,I want you to hear a problem weÃ¢â‚¬â„¢ve got here in the USA.,Premise
+52196,I want you to hear a problem we???????�??e got here in the USA.,Premise
 52259,"If you're a single mother making $22,000 a year and you have two children, under this tax code, for every additional dollar you make, you pay a higher marginal rate on that dollar than someone making more than $200,000 a year, and that is not right.",Claim
 52509,"My plan drops the rate from 15% to 10% and increases the child credit from $500 to $1,000 to make the code more fair for everybody, not just a few, not just a handful.",None
 52677,Everybody who pays taxes ought to get some relief.,None
@@ -18134,7 +18134,7 @@ Index,Sentences,Annotation
 58293,We have a strong charter school movement that I signed the legislation to get started in the State of Texas.,Premise
 58402,"I believe if we find poor children trapped in schools that won't teach, we need to free the parents.",None
 58503,We need to expand education savings accounts.,Premise
-58549,Something that the vice presidentÃ¢â‚¬â„¢s running mate supports.,None
+58549,Something that the vice president???????�?? running mate supports.,None
 58615,There's big differences.,Claim
 58640,He won't support freeing local districts from the strings of federal money.,Premise
 58723,"First of all, I do have mandatory testing.",None
@@ -18193,7 +18193,7 @@ Index,Sentences,Annotation
 63725,They oppose mine because they don't want to get Medicare involved because they're afraid that Medicare will negotiate lower prices for seniors who currently pay the highest prices of all.,None
 63922,Governor Bush?,None
 63944,"I've been standing up to big Hollywood, big trial lawyers.",Claim
-64003,Was Ã¢â‚¬â€œ what was the question?,None
+64003,Was ????????? what was the question?,None
 64039,"It was about emergencies, wasn't it?",Premise
 64085,It was about -- okay.,Premise
 64114,"You know, as governor, one of the things you have to deal with is catastrophe.",Claim
@@ -18278,7 +18278,7 @@ Index,Sentences,Annotation
 71074,"Now, the fact is you're going to have a hard time convincing folks that we were a whole lot better off eight years ago than we are today.",None
 71212,But that's not the question.,Claim
 71241,"The question is, will we be better off four years from now than we are today?",Claim
-71319,"And as for the surest way to threaten our prosperity, having a $1.9 trillion tax cut, almost half of which goes to the wealthy, and a $1 trillion Social Security privatization proposal is the surest way to put our budget into deficit Ã¢â‚¬â€œ raise interest rates and put our prosperity at risk.",Claim
+71319,"And as for the surest way to threaten our prosperity, having a $1.9 trillion tax cut, almost half of which goes to the wealthy, and a $1 trillion Social Security privatization proposal is the surest way to put our budget into deficit ????????? raise interest rates and put our prosperity at risk.",Claim
 71622,I can't let the man continue with fuzzy math.,None
 71668,It is 1.3 trillion Mr. Vice President.,Claim
 71707,It will go to everybody who pays taxes.,Premise
@@ -18637,7 +18637,7 @@ Index,Sentences,Annotation
 11228,We're using the numbers presented by the nonpartisan Congressional Budget Office.,None
 11310,We start with an agreement which is this surplus in the Social Security fund should be locked up and used for Social Security.,None
 11437,That's where the agreement ends.,None
-11470,"We also agree and believe and pledge that the surplus in the Medicare trust fund should also be locked up with a sign on it that says ""politicians keep your hands off.""",Claim
+11470,We also agree and believe and pledge that the surplus in the Medicare trust fund should also be locked up with a sign on it that says "politicians keep your hands off.",Claim
 11639,Our opponents do not do that.,None
 11669,"In fact, they raid the Medicare trust fund to pay for, well, their tax cut and other programs that they can't afford because they've spent so much on the tax cut.",Claim
 11832,Let me come back to the remaining $1.8 trillion that we both talked about.,None
@@ -19242,7 +19242,7 @@ Index,Sentences,Annotation
 70911,I want to say with the humility that is required to respond to this statement that I think what I would bring to the office of the vice presidency is a lifetime's experience.,Claim
 71086,"Growing up in a working class family, having the opportunity to go to a great public school system, then to go on to college and then to be drawn really by President Kennedy, as well as the values of service my family gave me, into public life.",Premise
 71331,Wanting to make a difference.,None
-71361,"I have had extraordinary opportunities, thanks again to those folks back home in Connecticut, Ã‚ as a state senator, attorney general trying to enforce the law to protect them and the environment and consumers, and to litigate on behalf of humans rights.",None
+71361,"I have had extraordinary opportunities, thanks again to those folks back home in Connecticut, ???as a state senator, attorney general trying to enforce the law to protect them and the environment and consumers, and to litigate on behalf of humans rights.",None
 71616,"And for the last 12 years as a member of the Senate of the United States focusing on national security questions, environmental protection, economic growth and values.",Premise
 71784,But perhaps what I most bring is a friendship and shared values and shared priorities with Al Gore.,None
 71884,I have tremendous respect for Al Gore.,None
@@ -20010,7 +20010,7 @@ Index,Sentences,Annotation
 54274,The state.,Premise
 54296,"I think states should do that for new handguns, because too many criminals are getting guns.",None
 54389,There was a recent investigation of the number in Texas who got -- who were given concealed weapons permits in spite of the fact that they had records.,Premise
-54541,"And the ""Los Angeles Times"" spent a lot of ink going into that.",Claim
+54541,And the "Los Angeles Times" spent a lot of ink going into that.,Claim
 54605,"But I am not for doing anything that would affect hunters or sportsmen, rifles, shotguns, existing handguns.",Premise
 54714,I do think that sensible gun safety measures are warranted now.,Premise
 54778,"Look, this is the year -- this is in the aftermath of Columbine, and Paducah, and all the places in our country where the nation has been shocked by these weapons in the hands of the wrong people.",None
@@ -20494,7 +20494,7 @@ Index,Sentences,Annotation
 5571,But we did something else that was interesting.,Claim
 5619,We're one of the first states that said you can sue an HMO for denying you proper coverage.,Claim
 5711,Now there's what's called an Independent Review Organization that you have to go through first.,Claim
-5807,"It says if youÃ¢â‚¬â„¢ve got a complaint with your insurance company, you can take your complaint to an objective body.",Claim
+5807,"It says if you???????�??e got a complaint with your insurance company, you can take your complaint to an objective body.",Claim
 5927,"If the objective body rules on your behalf, the insurance company must follow those rules.",None
 6018,"However, if the insurance company doesn't follow the findings of the IRO, then that becomes a cause of action in a court of law.",Claim
 6147,"It's time for our nation to come together and do what's right for the people, and I think this is right for the people.",Claim
@@ -21046,7 +21046,7 @@ Index,Sentences,Annotation
 51057,We need to open up markets.,Claim
 51085,"Exports are down, and every time an export number goes down, it hurts the farmer.",Claim
 51167,I want the next president to have fast track negotiating authority to open up markets around the world.,Claim
-51271,WeÃ¢â‚¬â„¢re the best and the most efficient farmers.,Claim
+51271,We???????�??e the best and the most efficient farmers.,Claim
 51325,I don't want to use food as a diplomatic weapon from this point forward.,Premise
 51398,We shouldn't be using food.,Claim
 51426,It hurts the farmers.,Claim
@@ -21497,7 +21497,7 @@ Index,Sentences,Annotation
 84125,"Should I be fortunate enough to become your president, when I put my hand on the Bible, I will swear to not only uphold the laws of the land, but I will also swear to uphold the honor and the dignity of the office to which I have been elected, so help me God.",
 84385,Thank you very much.,
 8,"Good evening from the University of Miami Convocation Center in Coral Gables, Florida.",None
-95,"I'm Jim Lehrer of ""The NewsHour"" on PBS.",None
+95,I'm Jim Lehrer of "The NewsHour" on PBS.,None
 136,"And I welcome you to the first of the 2004 presidential debates between President George W. Bush, the Republican nominee, and Senator John Kerry, the Democratic nominee.",None
 307,These debates are sponsored by the Commission on Presidential Debates.,None
 379,"Tonight's will last 90 minutes, following detailed rules of engagement worked out by representatives of the candidates.",None
@@ -21863,7 +21863,7 @@ Index,Sentences,Annotation
 27235,"He went to Cincinnati and he gave a speech in which he said, ""We will plan carefully.",Premise
 27321,We will proceed cautiously.,Premise
 27349,We will not make war inevitable.,Premise
-27382,"We will go with our allies.""",Premise
+27382,We will go with our allies.",Premise
 27412,He didn't do any of those things.,Claim
 27446,They didn't do the planning.,Claim
 27475,They left the planning of the State Department in the State Department desks.,Claim
@@ -21894,9 +21894,9 @@ Index,Sentences,Annotation
 29163,What's he say to Alexander Kwasniewski of Poland?,Premise
 29213,You can't expect to build an alliance when you denigrate the contributions of those who are serving side by side with American troops in Iraq.,Claim
 29357,"Plus, he says the cornerstone of his plan to succeed in Iraq is to call upon nations to serve.",Claim
-29452,"So what's the message going to be: ""Please join us in Iraq.",None
+29452,So what's the message going to be: "Please join us in Iraq.,None
 29512,For a grand diversion.,None
-29535,"Join us for a war that is the wrong war at the wrong place at the wrong time?""",None
+29535,Join us for a war that is the wrong war at the wrong place at the wrong time?",None
 29615,I know how these people think.,Claim
 29646,I deal with them all the time.,Premise
 29677,I sit down with the world leaders frequently and talk to them on the phone frequently.,Premise
@@ -22134,7 +22134,7 @@ Index,Sentences,Annotation
 46091,"Now what greater admission is there, 16 months afterwards.",None
 46150,"""Oops, we haven't done the job.",None
 46182,We have to start to spend the money now.,None
-46223,"Will you guys give us permission to shift it over into training?""",None
+46223,Will you guys give us permission to shift it over into training?",None
 46299,Ninety seconds.,None
 46322,"There are 100,000 troops trained, police, guard, special units, border patrol.",Premise
 46401,"There's going to be 125,000 trained by the end of this year.",Premise
@@ -22248,7 +22248,7 @@ Index,Sentences,Annotation
 54064,"I mean, we can remember when President Kennedy in the Cuban missile crisis sent his secretary of state to Paris to meet with DeGaulle.",None
 54199,"And in the middle of the discussion, to tell them about the missiles in Cuba, he said, ""Here, let me show you the photos.""",None
 54322,"And DeGaulle waved them off and said, ""No, no, no, no.",None
-54377,"The word of the president of the United States is good enough for me.""",None
+54377,The word of the president of the United States is good enough for me.",None
 54449,"How many leaders in the world today would respond to us, as a result of what we've done, in that way?",None
 54551,So what is at test here is the credibility of the United States of America and how we lead the world.,None
 54653,And Iran and Iraq are now more dangerous -- Iran and North Korea are now more dangerous.,Claim
@@ -22289,7 +22289,7 @@ Index,Sentences,Annotation
 57638,"And so if Kim Jong Il decides again to not honor an agreement, he's not only doing injustice to America, he'd be doing injustice to China, as well.",Claim
 57787,And I think this will work.,Claim
 57815,It's not going to work if we open up a dialogue with Kim Jong Il.,Claim
-57881,ThatÃ¢â‚¬â„¢s what he wants.,Claim
+57881,That???????�?? what he wants.,Claim
 57910,"He wants to unravel the six- party talks, or the five-nation coalition that's sending him a clear message.",Claim
 58018,"On Iran, I hope we can do the same thing, continue to work with the world to convince the Iranian mullahs to abandon their nuclear ambitions.",None
 58161,"We worked very closely with the foreign ministers of France, Germany and Great Britain, who have been the folks delivering the message to the mullahs that if you expect to be part of the world of nations, get rid of your nuclear programs.",Premise
@@ -22549,7 +22549,7 @@ Index,Sentences,Annotation
 77919,"Well, but when he used the word ""truth"" again...",None
 77975,Pardon me?,None
 77995,... talking about the truth of the matter.,None
-78038,"He used the word ""truth"" again.",None
+78038,He used the word "truth" again.,None
 78070,Did that raise any hackles with you?,None
 78114,"Oh, I'm a pretty calm guy.",None
 78141,I don't take it personally.,None
@@ -23086,7 +23086,7 @@ Index,Sentences,Annotation
 44991,"And Senator, frankly, you have a record in the Senate that's not very distinguished.",Claim
 45076,"You've missed 33 out of 36 meetings in the Judiciary Committee, almost 70 percent of the meetings of the Intelligence Committee.",Premise
 45206,"You've missed a lot of key votes: on tax policy, on energy, on Medicare reform.",Premise
-45287,"Your hometown newspaper has taken to calling you ""Senator Gone.""",None
+45287,Your hometown newspaper has taken to calling you "Senator Gone.",None
 45352,You've got one of the worst attendance records in the United States Senate.,None
 45429,"Now, in my capacity as vice president, I am the president of Senate, the presiding officer.",None
 45521,I'm up in the Senate most Tuesdays when they're in session.,None
@@ -23250,7 +23250,7 @@ Index,Sentences,Annotation
 58045,"Yesterday, the president signed an extension of middle- class tax cuts, the 10 percent bracket, the marriage penalty relief and the increase in the child tax credit.",None
 58211,Senators Kerry and Edwards weren't even there to vote for it when it came to final passage.,None
 58312,"The next question goes to you, Mr. Vice President.",None
-58363,"I want to read something you said four years ago at this very setting: ""Freedom means freedom for everybody.""",None
+58363,I want to read something you said four years ago at this very setting: "Freedom means freedom for everybody.",None
 58473,You said it again recently when you were asked about legalizing same-sex unions.,None
 58554,And you used your family's experience as a context for your remarks.,None
 58624,Can you describe then your administration's support for a constitutional ban on same-sex unions?,None
@@ -23701,7 +23701,7 @@ Index,Sentences,Annotation
 99629,The overall outcome will depend upon the ability of the American people and the strong leadership of the president to meet all the challenges that we'll face in the days and years ahead.,None
 99817,I'm confident we can do it.,
 8,Good evening from the Field House at Washington University in St. Louis.,None
-81,"I'm Charles Gibson of ABC News and ""Good Morning America.""",None
+81,I'm Charles Gibson of ABC News and "Good Morning America.",None
 140,"I welcome you to the second of the 2004 presidential debates between President George W. Bush, the Republican nominee, and Senator John Kerry, the Democratic nominee.",None
 308,The debates are sponsored by the Commission on Presidential Debates.,None
 378,Tonight's format is going to be a bit different.,None
@@ -23980,17 +23980,17 @@ Index,Sentences,Annotation
 19763,"I came away convinced that, if we worked at it, if we were ready to work and letting Hans Blix do his job and thoroughly go through the inspections, that if push came to shove, they'd be there with us.",Premise
 19966,"But the president just arbitrarily brought the hammer down and said, ""Nope.",None
 20042,"Sorry, time for diplomacy is over.",None
-20077,"We're going.""",Premise
+20077,We're going.",Premise
 20092,He rushed to war without a plan to win the peace.,Premise
 20143,"Ladies and gentleman, he gave you a speech and told you he'd plan carefully, take every precaution, take our allies with us.",Premise
 20268,He didn't.,Claim
 20279,He broke his word.,None
 20308,Mr. President?,Premise
 20330,"I remember sitting in the White House looking at those generals, saying, ""Do you have what you need in this war?",None
-20443,"Do you have what it takes?""",Premise
+20443,Do you have what it takes?",Premise
 20471,"I remember going down to the basement of the White House the day we committed our troops as last resort, looking at Tommy Franks and the generals on the ground, asking them, ""Do we have the right plan with the right troop level?""",Premise
 20702,"And they looked me in the eye and said, ""Yes, sir, Mr.",None
-20757,"President.""",Premise
+20757,President.",Premise
 20769,"Of course, I listen to our generals.",Claim
 20806,That's what a president does.,Claim
 20836,A president sets the strategy and relies upon good military people to execute that strategy.,None
@@ -24222,7 +24222,7 @@ Index,Sentences,Annotation
 37532,These cards make sense.,Claim
 37557,"And, you know, in 2006 seniors are going to get prescription drug coverage for the first time in Medicare.",Premise
 37664,Because I went to Washington to fix problems.,Premise
-37711,"Medicare -- the issue of Medicare used to be called ""Mediscare.""",Claim
+37711,Medicare -- the issue of Medicare used to be called "Mediscare.",Claim
 37776,People didn't want to touch it for fear of getting hurt politically.,Claim
 37846,I wanted to get something done.,Claim
 37878,I think our seniors deserve a modern medical system.,Claim
@@ -24233,7 +24233,7 @@ Index,Sentences,Annotation
 38146,"Four years ago, right here in this forum, he was asked the same question: Can't people be able to import drugs from Canada?",Premise
 38270,You know what he said?,None
 38293,"""I think that makes sense.",None
-38320,"I think that's a good idea"" -- four years ago.",Premise
+38320,I think that's a good idea" -- four years ago.,Premise
 38368,"Now, the president said, ""I'm not blocking that.""",Claim
 38418,"Ladies and gentlemen, the president just didn't level with you right now again.",Premise
 38499,"He did block it, because we passed it in the United States Senate.",Premise
@@ -24454,7 +24454,7 @@ Index,Sentences,Annotation
 52918,"Somebody here asked the question about, ""Why haven't you vetoed something?""",None
 52994,It's a good question.,None
 53016,"If you care about it, why don't you veto it?",None
-53062,"I think John McCain called the energy bill the ""No Lobbyist Left Behind"" bill.",None
+53062,I think John McCain called the energy bill the "No Lobbyist Left Behind" bill.,None
 53142,"I mean, you've got to stand up and fight somewhere, folks.",Claim
 53202,"I'm pledging I will not raise taxes; I'm giving a tax cut to the people earning less than $200,000 a year.",Claim
 53310,"Now, for the people earning more than $200,000 a year, you're going to see a rollback to the level we were at with Bill Clinton, when people made a lot of money.",Premise
@@ -24483,7 +24483,7 @@ Index,Sentences,Annotation
 54738,You looked at me like my clock was up.,Claim
 54777,"I think that the way to grow this economy is to keep taxes low, is have an energy plan, is to have litigation reform.",Premise
 54895,"As I told you, we've just got a report that said over the past 13 months, we've created 1.9 million new jobs.",Premise
-55005,WeÃ¢â‚¬â„¢re growing.,Claim
+55005,We???????�??e growing.,Claim
 55028,And so the fundamental question of this campaign is: Who's going to keep the economy growing so people can work?,None
 55141,That's the fundamental question.,None
 55184,"I'm going to come back one more time to how these numbers add up and how you can cut that deficit in half in four years, given what you've both said.",Premise
@@ -24743,7 +24743,7 @@ Index,Sentences,Annotation
 75335,(LAUGHTER)  I would pick somebody who would not allow their personal opinion to get in the way of the law.,Premise
 75442,I would pick somebody who would strictly interpret the Constitution of the United States.,None
 75533,"Let me give you a couple of examples, I guess, of the kind of person I wouldn't pick.",Premise
-75620,"I wouldn't pick a judge who said that the Pledge of Allegiance couldn't be said in a school because it had the words ""under God"" in it.",Premise
+75620,I wouldn't pick a judge who said that the Pledge of Allegiance couldn't be said in a school because it had the words "under God" in it.,Premise
 75756,I think that's an example of a judge allowing personal opinion to enter into the decision-making process as opposed to a strict interpretation of the Constitution.,Premise
 75921,"Another example would be the Dred Scott case, which is where judges, years ago, said that the Constitution allowed slavery because of personal property rights.",Premise
 76082,That's a personal opinion.,Premise
@@ -25040,7 +25040,7 @@ Index,Sentences,Annotation
 5847,"Six months after he said Osama bin Laden must be caught dead or alive, this president was asked, ""Where is Osama bin Laden? """,Premise
 5973,"He said, ""I don't know.",Premise
 5997,I don't really think about him very much.,None
-6039,"I'm not that concerned. """,None
+6039,I'm not that concerned. ",None
 6066,We need a president who stays deadly focused on the real war on terror.,Claim
 6151,Mr. President?,None
 6173,"Gosh, I just don't think I ever said I'm not worried about Osama bin Laden.",Claim
@@ -25330,10 +25330,10 @@ Index,Sentences,Annotation
 27673,I was an altar boy.,Premise
 27693,I know that throughout my life this has made a difference to me.,Claim
 27759,"And as President Kennedy said when he ran for president, he said, ""I'm not running to be a Catholic president.",Premise
-27870,"I'm running to be a president who happens to be Catholic. """,Premise
+27870,I'm running to be a president who happens to be Catholic. ",Premise
 27931,"My faith affects everything that I do, in truth.",None
 27980,"There's a great passage of the Bible that says, ""What does it mean, my brother, to say you have faith if there are no deeds?",None
-28105,"Faith without works is dead. """,None
+28105,Faith without works is dead. ",None
 28137,"And I think that everything you do in public life has to be guided by your faith, affected by your faith, but without transferring it in any official way to other people.",Claim
 28309,That's why I fight against poverty.,Claim
 28345,That's why I fight to clean up the environment and protect this earth.,Claim
@@ -26441,7 +26441,7 @@ Index,Sentences,Annotation
 31811,Let me figure out a way to ask the same question in a slightly different way here.,None
 31894,"Are you -- are you willing to acknowledge both of you that this financial crisis is going to affect the way you rule the country as president of the United States beyond the kinds of things that you have already -- I mean, is it a major move?",None
 32137,Is it going to have a major affect?,None
-32181,There's no doubt itÃ¢â‚¬â„¢s gonna affect our budgets.,Claim
+32181,There's no doubt it???????�?? gonna affect our budgets.,Claim
 32236,There is no doubt about it.,Claim
 32264,"Not only -- Even if we get all $700 billion back, let's assume the markets recover, we're holding assets long enough that eventually taxpayers get it back and that happened during the Great Depression when Roosevelt purchased a whole bunch of homes, over time, home values went back up and in fact government made a profit.",Premise
 32588,"If we're lucky and we do it right, that could potentially happen but in the short term there's an outlay and we may not see that money for a while.",Claim
@@ -26701,7 +26701,7 @@ Index,Sentences,Annotation
 55651,"And then she said, ""But, Senator McCain, I want you to do everything -- promise me one thing, that you'll do everything in your power to make sure that my son's death was not in vain.""",Claim
 55837,"That means that that mission succeeds, just like those young people who re-enlisted in Baghdad, just like the mother I met at the airport the other day whose son was killed.",Claim
 56011,And they all say to me that we don't want defeat.,Premise
-56061,I know what thatÃ¢â‚¬â„¢s like when an army is defeated.,Claim
+56061,I know what that???????�?? like when an army is defeated.,Claim
 56128,"A war that I was in, where we had an Army, that it wasn't through any fault of their own, but they were defeated.",None
 56242,And I know how hard it is for that -- for an Army and a military to recover from that.,Claim
 56329,And it did and we will win this one and we won't come home in defeat and dishonor and probably have to go back if we fail.,Premise
@@ -27087,7 +27087,7 @@ Index,Sentences,Annotation
 91048,"And I embarked on an effort to resolve the POW-MIA issue, which we did in a bipartisan fashion, and then I worked on normalization of relations between our two countries so that our veterans could come all the way home.",Claim
 91268,"I guarantee you, as president of the United States, I know how to heal the wounds of war, I know how to deal with our adversaries, and I know how to deal with our friends.",
 7,"Good evening from Washington University in St. Louis, Missouri.",None
-71,"I'm Gwen Ifill of ""The NewsHour"" and ""Washington Week"" on PBS.",None
+71,I'm Gwen Ifill of "The NewsHour" and "Washington Week" on PBS.,None
 134,"Welcome to the first and the only 2008 vice presidential debate between the Republican nominee, Governor Sarah Palin of Alaska, and the Democratic nominee, Joe Biden of Delaware.The Commission on Presidential Debates is the sponsor of this event and the two remaining presidential debates.",None
 424,"Tonight's discussion will cover a wide range of topics, including domestic and foreign policy matters.It will be divided roughly into five-minute segments.",None
 580,Each candidate will have 90 seconds to respond to a direct question and then an additional two minutes for rebuttal and follow-up.,None
@@ -27166,11 +27166,11 @@ Index,Sentences,Annotation
 9539,Let's do what our parents told us before we probably even got that first credit card.,Claim
 9625,Don't live outside of our means.,Claim
 9658,We need to make sure that as individuals we're taking personal responsibility through all of this.,None
-9757,"It's not the American peoplesÃ¢â‚¬â„¢s fault that the economy is hurting like it is, but we have an opportunity to learn a heck of a lot of good lessons through this and say never again will we be taken advantage of.",Premise
+9757,"It's not the American peoples???????�?? fault that the economy is hurting like it is, but we have an opportunity to learn a heck of a lot of good lessons through this and say never again will we be taken advantage of.",Premise
 9982,Senator?,Premise
 9999,"Well Gwen, two years ago Barack Obama warned about the sub prime mortgage crisis.",Claim
 10081,John McCain said shortly after that in December he was surprised there was a sub prime mortgage problem.,None
-10186,"John McCain while Barack Obama was warning about what we had to do was literally giving an interview to ""The Wall Street Journal"" saying that I'm always for cutting regulations.",Claim
+10186,John McCain while Barack Obama was warning about what we had to do was literally giving an interview to "The Wall Street Journal" saying that I'm always for cutting regulations.,Claim
 10364,We let Wall Street run wild.,Premise
 10393,"John McCain and he's a good man, but John McCain thought the answer is that tried and true Republican response, deregulate, deregulate.So what you had is you had overwhelming ""deregulation.""",None
 10584,You had actually the belief that Wall Street could self-regulate itself.,Premise
@@ -27275,7 +27275,7 @@ Index,Sentences,Annotation
 19754,"You're going to have to pay -- replace a $12,000 plan, because 20 million of you are going to be dropped.",Claim
 19860,Twenty million of you will be dropped.,None
 19899,"So you're going to have to place -- replace a $12,000 plan with a $5,000 check you just give to the insurance company.",None
-20018,"I call that the ""Ultimate Bridge to Nowhere.""",None
+20018,I call that the "Ultimate Bridge to Nowhere.",None
 20073,"Thank you, Senator.Now... (LAUGHTER) ...",None
 20114,"I want to get -- try to get you both to answer a question that neither of your principals quite answered when my colleague, Jim Lehrer, asked it last week, starting with you, Senator Biden.",Claim
 20304,"What promises -- given the events of the week, the bailout plan, all of this, what promises have you and your campaigns made to the American people that you're not going to be able to keep?",Claim
@@ -27341,7 +27341,7 @@ Index,Sentences,Annotation
 27659,But here's the deal.,Premise
 27680,Barack Obama pointed out two years ago that there was a subprime mortgage crisis and wrote to the secretary of Treasury.,None
 27801,"And he said, ""You'd better get on the stick here.",Claim
-27851,"You'd better look at it.""",None
+27851,You'd better look at it.",None
 27877,"John McCain said as early as last December, quote -- I'm paraphrasing -- ""I'm surprised about this subprime mortgage crisis,"" number one.",Claim
 28015,"Number two, with regard to bankruptcy now, Gwen, what we should be doing now -- and Barack Obama and I support it -- we should be allowing bankruptcy courts to be able to re-adjust not just the interest rate you're paying on your mortgage to be able to stay in your home, but be able to adjust the principal that you owe, the principal that you owe.",None
 28365,"That would keep people in their homes, actually help banks by keeping it from going under.",Claim
@@ -27371,7 +27371,7 @@ Index,Sentences,Annotation
 31053,"We have got to encourage other nations also to come along with us with the impacts of climate change, what we can do about that.",Claim
 31182,"As governor, I was the first governor to form a climate change sub-cabinet to start dealing with the impacts.",None
 31292,We've got to reduce emissions.,Claim
-31323,"John McCain is right there with an ""all of the above"" approach to deal with climate change impacts.",Premise
+31323,John McCain is right there with an "all of the above" approach to deal with climate change impacts.,Premise
 31423,We've got to become energy independent for that reason.,None
 31479,"Also as we rely more and more on other countries that don't care as much about the climate as we do, we're allowing them to produce and to emit and even pollute more than America would ever stand for.",Claim
 31680,"So even in dealing with climate change, it's all the more reason that we have an ""all of the above"" approach, tapping into alternative sources of energy and conserving fuel, conserving our petroleum products and our hydrocarbons so that we can clean up this planet and deal with climate change.",Claim
@@ -27490,7 +27490,7 @@ Index,Sentences,Annotation
 41642,John McCain voted against funding the troops because of an amendment he voted against had a timeline in it to draw down American troops.,Claim
 41779,And John said I'm not going to fund the troops if in fact there's a timeline.,Claim
 41857,Barack Obama and I agree fully and completely on one thing: You've got to have a time line to draw down the troops and shift responsibility to the Iraqis.We're spending $10 billion a month while the Iraqis have an $80 billion surplus.,None
-42092,"Barack says it's time for them to spend their own money and have the 400,000 military weÃ¢â‚¬â„¢ve trained for them begin to take their own responsibility and gradually over six months -- 16 months, withdrawal.",Claim
+42092,"Barack says it's time for them to spend their own money and have the 400,000 military we???????�??e trained for them begin to take their own responsibility and gradually over six months -- 16 months, withdrawal.",Claim
 42303,"John McCain -- this is a fundamental difference between us, we will end this war.",Claim
 42385,"For John McCain, there's no end in sight to end this war, fundamental difference.",Claim
 42467,We will end this war.,Claim
@@ -27582,7 +27582,7 @@ Index,Sentences,Annotation
 50241,"Our friends and allies have been saying, Gwen, ""Sit down.",None
 50299,Talk.,Premise
 50299,Talk.,Premise
-50311,"Talk.""",Claim
+50311,Talk.",Claim
 50318,"Our friends and allies have been saying that, five secretaries of state, three of them Republicans.",Premise
 50418,"And John McCain has said he would go along with an agreement, but he wouldn't sit down.",None
 50506,"Now, how do you do that when you don't have your administration sit down and talk with the adversary?",Premise
@@ -27614,7 +27614,7 @@ Index,Sentences,Annotation
 53093,Here's what the president said when we said no.,Premise
 53141,"He insisted on elections on the West Bank, when I said, and others said, and Barack Obama said, ""Big mistake.",None
 53251,Hamas will win.,None
-53267,"You'll legitimize them.""",Premise
+53267,You'll legitimize them.",Premise
 53292,What happened?,None
 53307,Hamas won.,Claim
 53318,"When we kicked -- along with France, we kicked Hezbollah out of Lebanon, I said and Barack said, ""Move NATO forces in there.",Claim
@@ -27958,7 +27958,7 @@ Index,Sentences,Annotation
 89054,"I said, ""I'd feel like a jerk.""",Claim
 89086,"He said, ""Joe, understand one thing.",None
 89123,"Everyone's sent here for a reason, because there's something in them that their folks like.",Claim
-89215,"Don't question their motive.""",Claim
+89215,Don't question their motive.",Claim
 89245,I have never since that moment in my first year questioned the motive of another member of the Congress or Senate with whom I've disagreed.,Claim
 89385,I've questioned their judgment.,Premise
 89417,I think that's why I have the respect I have and have been able to work as well as I've been able to have worked in the United States Senate.,Claim
@@ -28346,7 +28346,7 @@ Index,Sentences,Annotation
 30995,"How would you, as president, try to break those bad habits of too much debt and too much easy credit, specifically, across the board, for this country, not just at the federal level, but as a model for the rest of the country, as well?",None
 31240,"Well, I think it starts with Washington.",Claim
 31281,"We've got to show that we've got good habits, because if we're running up trillion dollar debts that we're passing on to the next generation, then a lot of people are going to think, ""Well, you know what?",Premise
-31486,"There's easy money out there.""",None
+31486,There's easy money out there.",None
 31517,"It means -- and I have to, again, repeat this.",None
 31564,"It means looking (ph) at the spending side, but also at the revenue side.",None
 31638,"I mean, Senator McCain has been talking tough about earmarks, and that's good, but earmarks account for about $18 billion of our budget.",Claim
@@ -28754,7 +28754,7 @@ Index,Sentences,Annotation
 70037,"Now, Senator McCain suggests that somehow, you know, I'm green behind the ears and, you know, I'm just spouting off, and he's somber and responsible.",None
 70197,Thank you very much.,None
 70226,"Senator McCain, this is the guy who sang, ""Bomb, bomb, bomb Iran,"" who called for the annihilation of North Korea.",None
-70341,"That I don't think is an example of ""speaking softly.""",None
+70341,That I don't think is an example of "speaking softly.",None
 70396,"This is the person who, after we had -- we hadn't even finished Afghanistan, where he said, ""Next up, Baghdad.""",None
 70509,So I agree that we have to speak responsibly and we have to act responsibly.,Premise
 70586,"And the reason Pakistan -- the popular opinion of America had diminished in Pakistan was because we were supporting a dictator, Musharraf, had given him $10 billion over seven years, and he had suspended civil liberties.",Premise
@@ -29272,7 +29272,7 @@ Index,Sentences,Annotation
 24545,Both of you pledged to take the high road in this campaign yet it has turned very nasty.,Premise
 24646,"Senator Obama, your campaign has used words like ""erratic,"" ""out of touch,"" ""lie,"" ""angry,"" ""losing his bearings"" to describe Senator McCain.",Premise
 24788,"Senator McCain, your commercials have included words like ""disrespectful,"" ""dangerous,"" ""dishonorable,"" ""he lied.""",Premise
-24903,"Your running mate said he ""palled around with terrorists.""",None
+24903,Your running mate said he "palled around with terrorists.",None
 24963,Are each of you tonight willing to sit at this table and say to each other's face what your campaigns and the people in your campaigns have said about each other?,None
 25127,"And, Senator McCain, you're first.",None
 25172,"Well, this has been a tough campaign.",None
@@ -29736,7 +29736,7 @@ Index,Sentences,Annotation
 69620,"And then, on the floor of the State Senate, as he did 130 times as a state senator, he voted present.",Premise
 69723,"Then there was another bill before the Senate Judiciary Committee in the state of Illinois not that long ago, where he voted against a ban on partial-birth abortion, one of the late-term abortion, a really -- one of the bad procedures, a terrible.",Premise
 69971,"And then, on the floor of the Illinois State Senate, he voted present.",Premise
-70043,"I don't know how you vote ""present"" on some of that.",Premise
+70043,I don't know how you vote "present" on some of that.,Premise
 70096,I don't know how you align yourself with the extreme aspect of the pro- abortion movement in America.,Claim
 70198,"And that's his record, and that's a matter of his record.",None
 70257,"And he'll say it has something to do with Roe v. Wade, about the Illinois State Senate.",Claim
@@ -29900,7 +29900,7 @@ Index,Sentences,Annotation
 85566,"All of these things and all the promises and commitments that Senator Obama and I made (inaudible) made to you tonight will base -- will be based on whether you can trust us or not to be careful stewards of your tax dollar, to make sure America is safe and secure and prosperous, to make sure we reform the institutions of government.",Claim
 85902,"That's why I've asked you not only to examine my record, but my proposals for the future of this country.",Premise
 86009,I've spent my entire life in the service of this nation and putting my country first.,Premise
-86095,"ThereÃ¢â‚¬â„¢s a long line of McCains that have served our country for a long time in war and in peace, it's been the great honor of my life, and I've been proud to serve.",Claim
+86095,"There???????�?? a long line of McCains that have served our country for a long time in war and in peace, it's been the great honor of my life, and I've been proud to serve.",Claim
 86268,And I hope you'll give me an opportunity to serve again.,None
 86325,I'd be honored and humbled.,None
 86366,Senator?,None
@@ -29971,10 +29971,10 @@ Index,Sentences,Annotation
 4397,This is obviously a very tender topic.,Premise
 4436,I've had the occasion over the last couple of years of meeting people across the country.,Premise
 4526,"I was in Dayton, Ohio, and a woman grabbed my arm and she said, ""I've been out of work since May.",Premise
-4624,"Can you help me?""",None
+4624,Can you help me?",None
 4643,"Ann yesterday was at a rally in Denver and a woman came up to her with a baby in her arms and said, ""Ann, my husband has had four jobs in three years, part-time jobs.",Premise
 4810,He's lost his most recent job and we've now just lost our home.,None
-4874,"Can you help us?""",None
+4874,Can you help us?",None
 4893,"And the answer is, yes, we can help, but it's going to take a different path.",Claim
 4971,"Not the one we've been on, not the one the president describes as a top-down, cut taxes for the rich.",Claim
 5073,That's not what I'm going to do.,Claim
@@ -30972,7 +30972,7 @@ Index,Sentences,Annotation
 88432,That's how we cut taxes for middle- class families and small businesses.,Premise
 88505,That's how we cut a trillion dollars of spending that wasn't advancing that cause.,Premise
 88588,That's how we signed three trade deals into law that are helping us to double our exports and sell more American products around the world.,Premise
-88728,"That's how we repealed ""don't ask/don't tell.""",None
+88728,That's how we repealed "don't ask/don't tell.",None
 88775,"That's how we ended the war in Iraq, as I promised, and that's how we're going to wind down the war in Afghanistan.",Claim
 88891,That's how we went after Al Qaida and bin Laden.,Claim
 88941,So we've -- we've seen progress even under Republican control of the House of Representatives.,Claim
@@ -31151,7 +31151,7 @@ Index,Sentences,Annotation
 9384,"But as I said, even before we knew what happened to the ambassador, the governor was holding a press conference -- was holding a press conference.",Premise
 9531,That's not presidential leadership.,Claim
 9578,"Mr. Ryan, I want to ask you about -- the Romney campaign talks a lot about no apologies.",None
-9667,"He has a book called called ""No Apologies.""",None
+9667,He has a book called called "No Apologies.",None
 9711,Should the U.S. have apologized for Americans burning Korans in Afghanistan?,None
 9788,Should the U.S. apologize for U.S. Marines urinating on Taliban corpses?,None
 9868,"Oh, gosh, yes.",None
@@ -31358,7 +31358,7 @@ Index,Sentences,Annotation
 23855,We moved in and helped people refinance their homes.,Premise
 23908,"Governor Romney said, ""No, let foreclosures hit the bottom.""",Premise
 23970,But it shouldn't be surprising for a guy who says 47 percent of the American people are unwilling to take responsibility for their own lives.,Premise
-24112,"My friend recently in a speech in Washington said ""30 percent of the American people are takers.""",Premise
+24112,My friend recently in a speech in Washington said "30 percent of the American people are takers.",Premise
 24211,"These people are my mom and dad -- the people I grew up with, my neighbors.",Premise
 24287,They pay more effective tax than Governor Romney pays in his federal income tax.,Premise
 24368,They are elderly people who in fact are living off of Social Security.,Premise
@@ -31413,7 +31413,7 @@ Index,Sentences,Annotation
 27587,"He brought his boys, his wife, and gifts.",Premise
 27629,"Later on, he said, ""I know you're struggling, Mark.",None
 27681,Don't worry about their college.,None
-27714,"I'll pay for it.""",Premise
+27714,I'll pay for it.",Premise
 27733,"When Mark told me this story, because, you know what, Mitt Romney doesn't tell these stories.",Premise
 27827,The Nixons told this story.,Premise
 27855,"When he told me this story, he said it wasn't the help, the cash help.",Premise
@@ -31644,7 +31644,7 @@ Index,Sentences,Annotation
 42772,"We all got together and everybody said, as long as everybody's in the deal, everybody's in the deal, and everybody is making some sacrifice, we can find a way.",None
 42932,We made the system solvent to 2033.,Premise
 42968,"We will not, though, be part of any voucher plan eliminating -- the voucher says, ""Mom, when you're -- when you're 65, go out there, shop for the best insurance you can get.",Claim
-43142,"You're out of Medicare.""",None
+43142,You're out of Medicare.",None
 43167,"You can buy back in if you want with this voucher, which will not keep pace -- will not keep pace with health care costs.",Claim
 43289,"Because if it did keep pace with health care costs, there would be no savings.",Premise
 43368,That's why they go the voucher.,Claim
@@ -31709,7 +31709,7 @@ Index,Sentences,Annotation
 47952,"We want to extend permanently the middle-class tax cut for -- permanently, from the Bush middle-class tax cut.",Premise
 48063,These guys won't allow us to.,Premise
 48093,You know what they're saying?,Claim
-48123,"We say ""let's have a vote -- let's have a vote on the middle-class tax cut and let's have a vote on the upper (ph) tax cut; let's go ahead and vote on it.""",Premise
+48123,We say "let's have a vote -- let's have a vote on the middle-class tax cut and let's have a vote on the upper (ph) tax cut; let's go ahead and vote on it.",Premise
 48280,They're saying no.,Premise
 48299,They're holding hostage the middle class tax cut to the super wealthy.,Claim
 48370,"And on top of that, they've got another tax cut coming that's $5 trillion that all of the studies point out will in fact give another $250 million -- yeah, $250,000 a year to those 120,000 families and raise taxes for people who are middle income with a child by $2,000 a year.",Premise
@@ -31788,9 +31788,9 @@ Index,Sentences,Annotation
 53587,Let's look at how sincere they are.,None
 53623,"Ronald -- I mean, excuse me, Governor Romney on ""60 Minutes"" -- I guess it was about 10 days ago -- was asked, ""Governor, you pay 14 percent on $20 million.",None
 53780,"Someone making $50,000 pays more than that.",None
-53824,"Do you think that's fair?""",None
+53824,Do you think that's fair?",None
 53851,"He said, ""Oh, yes, that's fair.",Claim
-53883,"That's fair.""",None
+53883,That's fair.",None
 53898,This is -- and they're going to talk -- you think these guys are going to go out there and cut those loopholes?,Premise
 54010,The loophole -- the biggest loophole they take advantage of is the carried interest loophole and -- and capital gains loophole.,Claim
 54138,They exempt that.,None
@@ -31870,7 +31870,7 @@ Index,Sentences,Annotation
 58032,It taxes a million small businesses...,None
 58079,Small businesses?,None
 58104,... who are our greatest job creators.,None
-58151,"I wish I'd get -- the ""greatest job creators"" are the hedge fund guys.",None
+58151,I wish I'd get -- the "greatest job creators" are the hedge fund guys.,None
 58232,And you're -- and you're going to increase the defense budget.,Claim
 58302,Think about it this way.,Claim
 58337,And you're going to increase the defense budget.,None
@@ -32007,7 +32007,7 @@ Index,Sentences,Annotation
 66968,"That's why we want to make sure -- no, that's why we want to make sure that... (CROSSTALK)",Premise
 67068,Forty-nine of our allies -- hear me -- 49 of our allies signed on to this position.,Claim
 67159,And we're reading that they want to... (CROSSTALK),None
-67219,"Forty-nine -- 49 of our allies said ""out in 2014.""",None
+67219,Forty-nine -- 49 of our allies said "out in 2014.",None
 67270,It's the responsibility of the Afghans.,None
 67310,We have other responsibilities... (CROSSTALK),None
 67366,Do you really think that this timeline... (CROSSTALK),None
@@ -32390,7 +32390,7 @@ Index,Sentences,Annotation
 94667,"Whenever you've leveled the playing field, they've been able to move.",None
 94737,And they want a little bit of peace of mind.,None
 94783,"And the president and I are not going to rest until that playing field is leveled, they, in fact, have a clear shot, and they have peace of mind, until they can turn to their kid and say with a degree of confidence, ""Honey, it's going to be OK.",None
-95028,"It's going to be OK."" That's what this is all about.",None
+95028,It's going to be OK." That's what this is all about.,None
 95092,Congressman Ryan?,None
 95117,"I want to thank you, as well, Martha, Danville, Kentucky, Centre College, and I want to thank you, Joe.",Premise
 95221,It's been an honor to engage in this critical debate.,Premise
@@ -32422,7 +32422,7 @@ Index,Sentences,Annotation
 96624,Thank you very much.,
 96653,Thank you.,
 9,"Good evening from Hofstra University in Hempstead, New York.",None
-70,"I'm Candy Crowley from CNN's ""State of the Union.""",None
+70,I'm Candy Crowley from CNN's "State of the Union.",None
 121,"We are here for the second presidential debate, a town hall, sponsored by the Commission on Presidential Debates.",None
 245,The Gallup organization chose 82 uncommitted voters from the New York area.,None
 321,Their questions will drive the night.,None
@@ -32449,7 +32449,7 @@ Index,Sentences,Annotation
 2327,I can't find a job.,None
 2347,I've got three part- time jobs.,None
 2379,They're just barely enough to pay for my food and pay for an apartment.,None
-2451,"I can't begin to pay back my student loans.""",None
+2451,I can't begin to pay back my student loans.",None
 2497,So what we have to do is two things.,None
 2534,We have to make sure that we make it easier for kids to afford college.,Claim
 2616,"And also make sure that when they get out of college, there's a job.",Claim
@@ -32472,8 +32472,8 @@ Index,Sentences,Annotation
 3872,It's not going to be like the last four years.,Premise
 3919,"The middle-class has been crushed over the last four years, and jobs have been too scarce.",Claim
 4010,"I know what it takes to bring them back, and I'm going to do that, and make sure that when you graduate -- when do you graduate?",Premise
-4151,2014.,None
-4151,2014.,Premise
+4151,2014,None
+4151,2014,Premise
 4172,"When you come out in 2014, I presume I'm going to be president.",Claim
 4236,I'm going to make sure you get a job.,None
 4274,Thanks Jeremy.,None
@@ -32600,7 +32600,7 @@ Index,Sentences,Annotation
 14342,I was in coal country.,None
 14365,"People grabbed my arms and said, ""Please save my job.""",None
 14420,"The head of the EPA said, ""You can't build a coal plant.",None
-14477,"You'll virtually -- it's virtually impossible given our regulations.""",None
+14477,You'll virtually -- it's virtually impossible given our regulations.",None
 14547,"When the president ran for office, he said if you build a coal plant, you can go ahead, but you'll go bankrupt.",None
 14659,That's not the right course for America.,None
 14701,"Let's take advantage of the energy resources we have, as well as the energy sources for the future.",Claim
@@ -34375,7 +34375,7 @@ Index,Sentences,Annotation
 59693,And they can say that the President of the United States and the United States of America has stood on the right side of history.,Claim
 59823,And that kind of credibility is precisely why we've been able to show leadership on a wide range of issues facing the world right now.,None
 59971,"What if -- what if the prime minister of Israel called you on the phone and said, ""Our bombers are on the way.",None
-60082,"We're going to bomb Iran.""",None
+60082,We're going to bomb Iran.",None
 60109,What do you --,None
 60134,"Bob, let's not go into hypotheticals of that nature.",Claim
 60187,"Our relationship with Israel, my relationship with the prime minister of Israel is such that we would not get a call saying our bombers are on the way, or their fighters are on the way.",Claim
@@ -34830,7 +34830,7 @@ Index,Sentences,Annotation
 2446,You bragged that you have sexually assaulted women.,Claim
 2498,Do you understand that?,None
 2529,"No, I didn't say that at all.",Claim
-2559,I don't think you understood what was â€” this was locker room talk.,Claim
+2559,I don't think you understood what was ???�?this was locker room talk.,Claim
 2628,I'm not proud of it.,Premise
 2649,I apologize to my family.,Premise
 2675,I apologize to the American people.,Claim
@@ -34868,15 +34868,15 @@ Index,Sentences,Annotation
 4621,It's just words.,None
 4638,"Those words, I've been hearing them for many years.",None
 4690,"I heard them when they were running for the Senate in New York, where Hillary was going to bring back jobs to upstate New York and she failed.",None
-4842,"Mr. Trump, Mr. Trump â€” I want to get to audience questions and online questions.",None
+4842,"Mr. Trump, Mr. Trump ???�?I want to get to audience questions and online questions.",None
 4932,"So, she's allowed to do that, but I'm not allowed to respond?",None
-5003,You're going to have â€” you're going to get to respond right now.,None
+5003,You're going to have ???�?you're going to get to respond right now.,None
 5077,Sounds fair.,None
 5099,This tape is generating intense interest.,None
 5141,"In just 48 hours, it's become the single most talked about story of the entire 2016 election on Facebook, with millions and millions of people discussing it on the social network.",None
 5321,"As we said a moment ago, we do want to bring in questions from voters around country via social media, and our first stays on this topic.",None
 5459,"Jeff from Ohio asks on Facebook, ""Trump says the campaign has changed him.",None
-5534,"When did that happen?""",None
+5534,When did that happen?",None
 5557,"So, Mr. Trump, let me add to that.",None
 5592,"When you walked off that bus at age 59, were you a different man or did that behavior continue until just recently?",None
 5708,And you have two minutes for this.,None
@@ -34894,7 +34894,7 @@ Index,Sentences,Annotation
 6463,"When I hear something like that, I am reminded of what my friend, Michelle Obama, advised us all: When they go low, you go high.",None
 6601,"He never apologized to Mr. and Mrs. Khan, the Gold Star family whose son, Captain Khan, died in the line of duty in Iraq.",None
 6723,And Donald insulted and attacked them for weeks over their religion.,None
-6799,"Well, you owe the president an apology, because as you know very well, your campaign, Sidney Blumenthal â€” he's another real winner that you have â€” and he's the one that got this started, along with your campaign manager, and they were on television just two weeks ago, she was, saying exactly that.",Premise
+6799,"Well, you owe the president an apology, because as you know very well, your campaign, Sidney Blumenthal ???�?he's another real winner that you have ???�?and he's the one that got this started, along with your campaign manager, and they were on television just two weeks ago, she was, saying exactly that.",Premise
 7102,So you really owe him an apology.,Premise
 7136,"You're the one that sent the pictures around your campaign, sent the pictures around with President Obama in a certain garb.",Premise
 7261,"That was long before I was ever involved, so you actually owe an apology.",Claim
@@ -34917,15 +34917,15 @@ Index,Sentences,Annotation
 8152,"You disagreed with FBI Director James Comey, calling your handling of classified information, quote, ""extremely careless.""",None
 8275,"The FBI said that there were 110 classified e-mails that were exchanged, eight of which were top secret, and that it was possible hostile actors did gain access to those e-mails.",None
 8454,You don't call that extremely careless?,None
-8503,"Well, Martha, first, let me say â€” and I've said before, but I'll repeat it, because I want everyone to hear it â€” that was a mistake, and I take responsibility for using a personal e-mail account.",Claim
+8503,"Well, Martha, first, let me say ???�?and I've said before, but I'll repeat it, because I want everyone to hear it ???�?that was a mistake, and I take responsibility for using a personal e-mail account.",Claim
 8703,"Obviously, if I were to do it over again, I would not.",Claim
 8758,I'm not making any excuses.,Claim
 8786,It was a mistake.,Premise
 8804,And I am very sorry about that.,None
 8845,"OK, we're going to move on.",None
-8880,And yet she didn't know the word â€” the letter C on a document.,None
+8880,And yet she didn't know the word ???�?the letter C on a document.,None
 8945,Right?,None
-8952,She didn't even know what that word â€” what that letter meant.,None
+8952,She didn't even know what that word ???�?what that letter meant.,None
 9024,We have to move on.,None
 9051,You did that.,None
 9065,Wait a minute.,None
@@ -34942,7 +34942,7 @@ Index,Sentences,Annotation
 9582,"It was personal e-mails, not official.",None
 9628,"Oh, 33,000?",None
 9640,Yeah.,None
-9655,"Not â€” well, we turned over 35,000, so...",None
+9655,"Not ???�?well, we turned over 35,000, so...",None
 9705,"Oh, yeah.",None
 9715,"What about the other 15,000?",None
 9752,Please allow her to respond.,None
@@ -34971,7 +34971,7 @@ Index,Sentences,Annotation
 10901,It hasn't.,None
 10912,And it hasn't been finished at all.,None
 10956,Ken Karpowicz has a question.,None
-10993,It's nice to â€” one on three.,Premise
+10993,It's nice to ???�?one on three.,Premise
 11034,Thank you.,None
 11045,"Affordable Care Act, known as Obamacare, it is not affordable.",Premise
 11108,Premiums have gone up.,Premise
@@ -35018,7 +35018,7 @@ Index,Sentences,Annotation
 13438,"So let's fix what's broken about it, but let's not throw it away and give it all back to the insurance companies and the drug companies.",Claim
 13575,That's not going to work.,None
 13609,"Mr. Trump, let me follow up on this.",None
-13653,"Well, I just want â€” just one thing.",Claim
+13653,"Well, I just want ???�?just one thing.",Claim
 13691,"First of all, Hillary, everything's broken about it.",None
 13744,Everything.,Premise
 13756,"Number two, Bernie Sanders said that Hillary Clinton has very bad judgment.",None
@@ -35033,11 +35033,11 @@ Index,Sentences,Annotation
 14309,What does that mean?,None
 14337,"Well, I'll tell you what it means.",Claim
 14372,"You're going to have plans that are so good, because we're going to have so much competition in the insurance industry.",Claim
-14492,Once we break out â€” once we break out the lines and allow the competition to come...,None
-14587,Are you going â€” are you going to have a mandate that Americans have to have health insurance?,None
-14690,"President Obama â€” Anderson, excuse me.",Premise
+14492,Once we break out ???�?once we break out the lines and allow the competition to come...,None
+14587,Are you going ???�?are you going to have a mandate that Americans have to have health insurance?,None
+14690,"President Obama ???�?Anderson, excuse me.",Premise
 14731,"President Obama, by keeping those lines, the boundary lines around each state, it was almost gone until just very toward the end of the passage of Obamacare, which, by the way, was a fraud.",Premise
-14921,"You know that, because Jonathan Gruber, the architect of Obamacare, was said â€” he said it was a great lie, it was a big lie.",Premise
+14921,"You know that, because Jonathan Gruber, the architect of Obamacare, was said ???�?he said it was a great lie, it was a big lie.",Premise
 15048,"President Obama said you keep your doctor, you keep your plan.",Claim
 15111,"The whole thing was a fraud, and it doesn't work.",Claim
 15169,"Thank you, Mr. Trump.",Claim
@@ -35049,7 +35049,7 @@ Index,Sentences,Annotation
 15494,"You've mentioned working with Muslim nations, but with Islamophobia on the rise, how will you help people like me deal with the consequences of being labeled as a threat to the country after the election is over?",None
 15716,"Mr. Trump, you're first.",None
 15748,"Well, you're right about Islamophobia, and that's a shame.",None
-15807,But one thing we have to do is we have to make sure that â€” because there is a problem.,Claim
+15807,But one thing we have to do is we have to make sure that ???�?because there is a problem.,Claim
 15896,"I mean, whether we like it or not, and we could be very politically correct, but whether we like it or not, there is a problem.",Claim
 16024,And we have to be sure that Muslims come in and report when they see something going on.,Claim
 16113,"When they see hatred going on, they have to report it.",Premise
@@ -35069,7 +35069,7 @@ Index,Sentences,Annotation
 17357,Iraq was disaster.,None
 17376,So he would have been alive today.,None
 17420,And why did it morph into that?,None
-17452,"No, did you â€” no, answer the question.",None
+17452,"No, did you ???�?no, answer the question.",None
 17493,Do you still believe...,None
 17525,Why don't you interrupt her?,None
 17554,You interrupt me all the time.,None
@@ -35086,12 +35086,12 @@ Index,Sentences,Annotation
 18320,That's not a perfect system.,None
 18349,So why take the risk of having those refugees come into the country?,Claim
 18427,"Well, first of all, I will not let anyone into our country that I think poses a risk to us.",None
-18519,"But there are a lot of refugees, women and children â€” think of that picture we all saw of that 4-year-old boy with the blood on his forehead because he'd been bombed by the Russian and Syrian air forces.",Premise
+18519,"But there are a lot of refugees, women and children ???�?think of that picture we all saw of that 4-year-old boy with the blood on his forehead because he'd been bombed by the Russian and Syrian air forces.",Premise
 18732,That's not been debunked.,Claim
 18767,"So, please...",None
 18788,That has not been debunked.,None
 18825,... go to HillaryClinton.com and you can see it.,Claim
-18881,I was against â€” I was against the war in Iraq.,Claim
+18881,I was against ???�?I was against the war in Iraq.,Claim
 18930,Has not been debunked.,Claim
 18953,And you voted for it.,None
 18975,And you shouldn't have.,None
@@ -35125,9 +35125,9 @@ Index,Sentences,Annotation
 20963,"Secretary Clinton, you're out of time.",None
 21011,... with the Russians and other foreign powers.,None
 21068,Mr. Trump?,None
-21086,"Well, I think I should respond, because â€” so ridiculous.",Claim
-21145,"Look, now she's blaming â€” she got caught in a total lie.",Premise
-21204,"Her papers went out to all her friends at the banks, Goldman Sachs and everybody else, and she said things â€” WikiLeaks that just came out.",Claim
+21086,"Well, I think I should respond, because ???�?so ridiculous.",Claim
+21145,"Look, now she's blaming ???�?she got caught in a total lie.",Premise
+21204,"Her papers went out to all her friends at the banks, Goldman Sachs and everybody else, and she said things ???�?WikiLeaks that just came out.",Claim
 21345,And she lied.,None
 21359,"Now she's blaming the lie on the late, great Abraham Lincoln.",None
 21421,That's one that I haven't...,None
@@ -35141,7 +35141,7 @@ Index,Sentences,Annotation
 21786,"Well, one thing I'd do is get rid of carried interest.",Claim
 21841,"One of the greatest provisions for people like me, to be honest with you, I give up a lot when I run, because I knock out the tax code.",Claim
 21977,"And she could have done this years ago, by the way.",Premise
-22029,She's a United States â€” she was a United States senator.,None
+22029,She's a United States ???�?she was a United States senator.,None
 22096,"Secretary Clinton, you have two minutes.",None
 22137,"The question was, what specific tax provisions will you change to ensure the wealthiest Americans pay their fair share of taxes?",Claim
 22275,"Well, everything you've heard just now from Donald is not true.",Premise
@@ -35150,7 +35150,7 @@ Index,Sentences,Annotation
 22560,"Thank you, Secretary.",None
 22591,"And we're going to make sure that nobody, no corporation, and no individual can get away without paying his fair share to support our country.",None
 22742,Thank you.,None
-22753,"I want to give you â€” Mr. Trump, I want to give you the chance to respond.",None
+22753,"I want to give you ???�?Mr. Trump, I want to give you the chance to respond.",None
 22829,I just wanted to tell our viewers what she's referring to.,Premise
 22888,"In the last month, taxes were the number-one issue on Facebook for the first time in the campaign.",Premise
 22987,The New York Times published three pages of your 1995 tax returns.,Claim
@@ -35164,10 +35164,10 @@ Index,Sentences,Annotation
 23497,I know many of her donors.,None
 23524,Her donors took massive tax write-offs.,Claim
 23572,So have you (inaudible) personal federal income tax?,Premise
-23632,"A lot of my â€” excuse me, Anderson â€” a lot of my write- off was depreciation and other things that Hillary as a senator allowed.",None
+23632,"A lot of my ???�?excuse me, Anderson ???�?a lot of my write- off was depreciation and other things that Hillary as a senator allowed.",None
 23764,"And she'll always allow it, because the people that give her all this money, they want it.",None
 23855,That's why.,Premise
-23875,So can you â€” can you say how many years you have avoided paying personal federal income taxes?,Claim
+23875,So can you ???�?can you say how many years you have avoided paying personal federal income taxes?,Claim
 23979,"No, but I pay tax, and I pay federal tax, too.",Premise
 24026,"But I have a write-off, a lot of it's depreciation, which is a wonderful charge.",None
 24107,I love depreciation.,Claim
@@ -35180,7 +35180,7 @@ Index,Sentences,Annotation
 24492,"They started from that little area, and now they're in 32 different nations, Hillary.",None
 24578,Congratulations.,None
 24595,Great job.,Claim
-24614,"Secretary â€” I want you to be able to respond, Secretary Clinton.",None
+24614,"Secretary ???�?I want you to be able to respond, Secretary Clinton.",None
 24690,"Well, here we go again.",None
 24714,"I've been in favor of getting rid of carried interest for years, starting when I was a senator from New York.",None
 24824,But that's not the point here.,None
@@ -35191,7 +35191,7 @@ Index,Sentences,Annotation
 25005,"Oh, really?",Claim
 25026,I will be the president and we will get it done.,None
 25075,That's exactly right.,Claim
-25104,"You could have done it, if you were an effective â€” if you were an effective senator, you could have done it.",None
+25104,"You could have done it, if you were an effective ???�?if you were an effective senator, you could have done it.",None
 25215,"If you were an effective senator, you could have done it.",None
 25273,But you were not an effective senator.,None
 25320,Please allow her to respond.,None
@@ -35209,7 +35209,7 @@ Index,Sentences,Annotation
 26105,Both of you have mentioned that.,None
 26145,She said a lot of things that were false.,Claim
 26187,"I mean, I think we should be allowed to maybe...",None
-26245,"No, we can â€” no, Mr. Trump, we're going to go on.",None
+26245,"No, we can ???�?no, Mr. Trump, we're going to go on.",None
 26297,This is about the audience.,None
 26332,Excuse me.,None
 26343,Because she has been a disaster as a senator.,None
@@ -35226,7 +35226,7 @@ Index,Sentences,Annotation
 27386,I was gone.,None
 27398,"I hate to interrupt you, but at some point...",None
 27451,OK.,None
-27455,But you were in contact â€” excuse me.,None
+27455,But you were in contact ???�?excuse me.,None
 27494,You were...,None
 27515,"At some point, we need to do some fact-checking here.",None
 27576,"You were in total contact with the White House, and perhaps, sadly, Obama probably still listened to you.",None
@@ -35273,15 +35273,15 @@ Index,Sentences,Annotation
 29690,And I'm pretty good at it.,Premise
 29726,It might be to help get civilians out.,Claim
 29772,And we have General Flynn.,None
-29799,"And we have â€” look, I have 200 generals and admirals who endorsed me.",Claim
+29799,"And we have ???�?look, I have 200 generals and admirals who endorsed me.",Claim
 29871,I have 21 Congressional Medal of Honor recipients who endorsed me.,None
 29938,We talk about it all the time.,Premise
 29969,"They understand, why can't they do something secretively, where they go in and they knock out the leadership?",None
-30079,How â€” why would these people stay there?,Claim
+30079,How ???�?why would these people stay there?,Claim
 30122,I've been reading now...,Premise
 30156,Tell me what your strategy is.,None
-30194,"... for weeks â€” I've been reading now for weeks about Mosul, that it's the harbor of where â€” you know, between Raqqa and Mosul, this is where they think the ISIS leaders are.",None
-30373,Why would they be saying â€” they're not staying there anymore.,None
+30194,"... for weeks ???�?I've been reading now for weeks about Mosul, that it's the harbor of where ???�?you know, between Raqqa and Mosul, this is where they think the ISIS leaders are.",None
+30373,Why would they be saying ???�?they're not staying there anymore.,None
 30437,They're gone.,None
 30451,"Because everybody's talking about how Iraq, which is us with our leadership, goes in to fight Mosul.",Claim
 30561,I'm going to go to Secretary Clinton.,Claim
@@ -35296,14 +35296,14 @@ Index,Sentences,Annotation
 31025,"I don't think American troops should be holding territory, which is what they would have to do as an occupying force.",Claim
 31143,I don't think that is a smart strategy.,None
 31192,But what would you do differently than President Obama is doing?,Claim
-31266,"Well, Martha, I hope that by the time I â€” if I'm fortunate...",Premise
+31266,"Well, Martha, I hope that by the time I ???�?if I'm fortunate...",Premise
 31337,Everything.,Claim
 31358,I hope by the time I am president that we will have pushed ISIS out of Iraq.,Claim
 31435,I do think that there is a good chance that we can take Mosul.,None
 31498,"And, you know, Donald says he knows more about ISIS than the generals.",Premise
 31569,"No, he doesn't.",None
 31585,I would go after Baghdadi.,None
-31612,"I would specifically target Baghdadi, because I think our targeting of Al Qaida leaders â€” and I was involved in a lot of those operations, highly classified ones â€” made a difference.",None
+31612,"I would specifically target Baghdadi, because I think our targeting of Al Qaida leaders ???�?and I was involved in a lot of those operations, highly classified ones ???�?made a difference.",None
 31799,So I think that could help.,None
 31836,Thank you very much.,None
 31857,We're going to move on...,None
@@ -35311,7 +35311,7 @@ Index,Sentences,Annotation
 31913,"She went over a minute over, and you don't stop her.",None
 31966,"When I go one second over, it's like a big deal.",None
 32024,You had many answers.,None
-32053,It's really â€” it's really very interesting.,Premise
+32053,It's really ???�?it's really very interesting.,Premise
 32107,We've got a question over here from James Carter.,None
 32157,Mr. Carter?,Claim
 32179,"My question is, do you believe you can be a devoted president to all the people in the United States?",Claim
@@ -35344,7 +35344,7 @@ Index,Sentences,Annotation
 33669,"I want to follow up on something that Donald Trump actually said to you, a comment you made last month.",Claim
 33773,"You said that half of Donald Trump's supporters are, quote, ""deplorables, racist, sexist, homophobic, xenophobic, Islamophobic.""",None
 33902,You later said you regretted saying half.,Premise
-33944,"You didn't express regret for using the term ""deplorables.""",None
+33944,You didn't express regret for using the term "deplorables.",None
 34004,"To Mr. Carter's question, how can you unite a country if you've written off tens of millions of Americans?",None
 34120,"Well, within hours I said that I was sorry about the way I talked about that, because my argument is not with his supporters.",None
 34246,"It's with him and with the hateful and divisive campaign that he has run, and the inciting of violence at his rallies, and the very brutal kinds of comments about not just women, but all Americans, all kinds of Americans.",None
@@ -35361,7 +35361,7 @@ Index,Sentences,Annotation
 34865,You look at Baltimore.,Claim
 34888,"You look at the violence that's taking place in the inner cities, Chicago, you take a look at Washington, D.C.",Premise
 35007,She said some of them are irredeemable.,None
-35054,She's got tremendous â€” she's got tremendous hatred.,Premise
+35054,She's got tremendous ???�?she's got tremendous hatred.,Premise
 35108,"And this country cannot take another four years of Barack Obama, and that's what you're getting with her.",Premise
 35222,"Mr. Trump, let me follow up with you.",Claim
 35260,"In 2008, you wrote in one of your books that the most important characteristic of a good leader is discipline.",Premise
@@ -35376,12 +35376,12 @@ Index,Sentences,Annotation
 36012,Guess what?,Premise
 36024,"She didn't answer it, because when Ambassador Stevens...",Claim
 36089,"The question is, is that the discipline of a good leader?",None
-36154,"... 600 â€” wait a minute, Anderson, 600 times.",Premise
+36154,"... 600 ???�?wait a minute, Anderson, 600 times.",Premise
 36202,"Well, she said she was awake at 3 o'clock in the morning, and she also sent a tweet out at 3 o'clock in the morning, but I won't even mention that.",Premise
 36350,But she said she'll be awake.,None
-36380,"Who's going â€” the famous thing, we're going to answer our call at 3 o'clock in the morning.",Claim
+36380,"Who's going ???�?the famous thing, we're going to answer our call at 3 o'clock in the morning.",Claim
 36474,Guess what happened?,Claim
-36495,Ambassador Stevens â€” Ambassador Stevens sent 600 requests for help.,Premise
+36495,Ambassador Stevens ???�?Ambassador Stevens sent 600 requests for help.,Premise
 36565,"And the only one she talked to was Sidney Blumenthal, who's her friend and not a good guy, by the way.",None
 36668,"So, you know, she shouldn't be talking about that.",None
 36727,"Secretary Clinton, does Mr. Trump have the discipline to be a good leader?",None
@@ -35405,7 +35405,7 @@ Index,Sentences,Annotation
 37855,We have another...,None
 37882,We have the slowest growth since 1929.,None
 37930,We're moving to an audience question.,None
-37975,It is â€” our country has the slowest growth and jobs are a disaster.,None
+37975,It is ???�?our country has the slowest growth and jobs are a disaster.,None
 38054,"Mr. Trump, Secretary Clinton, we want to get to the audience.",None
 38116,Thank you very much both of you.,None
 38159,Good evening.,Claim
@@ -35423,7 +35423,7 @@ Index,Sentences,Annotation
 38916,"Justice Scalia, great judge, died recently.",None
 38960,And we have a vacancy.,None
 38983,I am looking to appoint judges very much in the mold of Justice Scalia.,None
-39055,"I'm looking for judges â€” and I've actually picked 20 of them so that people would see, highly respected, highly thought of, and actually very beautifully reviewed by just about everybody.",None
+39055,"I'm looking for judges ???�?and I've actually picked 20 of them so that people would see, highly respected, highly thought of, and actually very beautifully reviewed by just about everybody.",None
 39254,Well...,Claim
 39271,Thank you very much.,None
 39292,We're going to get on to one more question.,Claim
@@ -35431,7 +35431,7 @@ Index,Sentences,Annotation
 39387,"And I just want to quickly say, I respect the Second Amendment.",None
 39451,"But I believe there should be comprehensive background checks, and we should close the gun show loophole, and close the online loophole.",None
 39596,Thank you.,None
-39616,"We have â€” we have one more question, Mrs. Clinton.",None
+39616,"We have ???�?we have one more question, Mrs. Clinton.",None
 39678,We have to save as many lives as we possibly can.,None
 39736,We have one more question from Ken Bone about energy policy.,None
 39797,Ken?,None
@@ -35441,12 +35441,12 @@ Index,Sentences,Annotation
 40043,"I think it's such a great question, because energy is under siege by the Obama administration.",Claim
 40138,Under absolutely siege.,None
 40162,"The EPA, Environmental Protection Agency, is killing these energy companies.",None
-40239,And foreign companies are now coming in buying our â€” buying so many of our different plants and then re-jiggering the plant so that they can take care of their oil.,None
+40239,And foreign companies are now coming in buying our ???�?buying so many of our different plants and then re-jiggering the plant so that they can take care of their oil.,None
 40414,Your time is up.,Premise
 40431,Thank you.,None
 40449,It's an absolute disgrace.,Claim
 40484,"Secretary Clinton, two minutes.",Claim
-40525,"And actually â€” well, that was very interesting.",None
+40525,"And actually ???�?well, that was very interesting.",None
 40575,"First of all, China is illegally dumping steel in the United States and Donald Trump is buying it to build his buildings, putting steelworkers and American steel plants out of business.",None
 40761,That's something that I fought against as a senator and that I would have a trade prosecutor to make sure that we don't get taken advantage of by China on steel or anything else.,None
 40948,Secretary Clinton...,None
@@ -35470,7 +35470,7 @@ Index,Sentences,Annotation
 41896,And I think that is something that as a mother and a grandmother is very important to me.,None
 41995,Mr. Trump?,None
 42013,"Well, I consider her statement about my children to be a very nice compliment.",None
-42092,"I don't know if it was meant to be a compliment, but it is a great â€” I'm very proud of my children.",None
+42092,"I don't know if it was meant to be a compliment, but it is a great ???�?I'm very proud of my children.",None
 42194,"And they've done a wonderful job, and they've been wonderful, wonderful kids.",None
 42272,So I consider that a compliment.,None
 42314,Thanks to both of you.,None
@@ -35872,7 +35872,7 @@ Index,Sentences,Annotation
 25276,I did not say that.,Premise
 25305,It's her two minutes.,None
 25336,"He went on to say, ""Look at her.",Premise
-25369,"I don't think so.""",Claim
+25369,I don't think so.",Claim
 25388,"About another woman, he said, ""That wouldn't be my first choice.""",None
 25454,"He attacked the woman reporter writing the story, called her ""disgusting,"" as he has called a number of women during this campaign.",Claim
 25595,Mr. Trump...,Claim
@@ -36046,7 +36046,7 @@ Index,Sentences,Annotation
 36326,Wrong.,Claim
 36342,"... before the invasion, he supported it.",None
 36384,"And, you know, I just want everybody to go Google it.",Premise
-36438,"Google ""Donald Trump Iraq.""",Premise
+36438,Google "Donald Trump Iraq.",Premise
 36466,And you will see the dozens of sources which verify that he was for the invasion of Iraq.,Premise
 36563,Wrong.,Claim
 36579,And you can actually hear the audio of him saying that.,Claim
@@ -36195,8 +36195,8 @@ Index,Sentences,Annotation
 45888,"Secretary Clinton, thank you.",None
 45925,She's raising the money from the people she wants to control.,None
 45987,Doesn't work that way.,None
-46019,Thank you both.,
-46035,"While millions have already voted, Election Day, November 8th, is just 20 days away.",
-46120,One thing everyone here can agree on: We hope you will go vote.,
-46184,It is one of the honors and obligations of living in this great country.,
-46257,"Thank you, and good night.",
+46019,Thank you both.,None
+46035,"While millions have already voted, Election Day, November 8th, is just 20 days away.",None
+46120,One thing everyone here can agree on: We hope you will go vote.,None
+46184,It is one of the honors and obligations of living in this great country.,None
+46257,"Thank you, and good night.",None
