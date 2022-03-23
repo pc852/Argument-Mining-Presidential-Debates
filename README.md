@@ -13,8 +13,8 @@
 |   |sentence_db_candidate.csv   |Main dataset used   |
 |paper   |pdf   |Final report   |
 |   |tex   |Tex code for the final report   |
-|presentations   |dec.pdf   |Slides for the first presentation |
-|   |feb.pdf   |Slides for the final presentation   |
+|presentations   |dec-presentation.pdf   |Slides for the first presentation |
+|   |feb-presentation.pdf   |Slides for the final presentation   |
 
 ## Replication 
 
