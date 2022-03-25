@@ -1,3 +1,6 @@
+#Source code for feature engineering. 
+#Helper functions inspired by https://towardsdatascience.com/text-analysis-feature-engineering-with-nlp-502d6ea9225d
+
 import spacy
 import collections
 import pandas as pd
