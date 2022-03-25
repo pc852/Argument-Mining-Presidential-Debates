@@ -25,3 +25,4 @@
 [Dataset](https://github.com/ElecDeb60To16/Dataset)
 [Tags](https://web.archive.org/web/20190206204307/https://www.clips.uantwerpen.be/pages/mbsp-tags)
 [Paper](https://aclanthology.org/P19-1463/)
+[Connectives](https://github.com/discourse-lab/en_dimlex/blob/master/en_dimlex.xml)
