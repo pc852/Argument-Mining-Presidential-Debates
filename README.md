@@ -6,15 +6,15 @@
 
 |Folder   |Item   |Description   |
 |---|---|---|
-|code   |:file_folder:experiments|Notebooks for 4 experiments ×  2 tasks |
-|   |linguistic_features.py |Documented functions for engineering linguistic features|
+|:file_folder: **code**   |:file_folder: **experiments**|Notebooks for 4 experimental settings ×  2 tasks |
+|   |linguistic_features.py |Documented functions for feature engineering |
 |   |preprocessing.py |Code snippet for sentences preprocessing|
-|   |requirements.txt   |Used Python frameworks and their versions   |
-|data   |:file_folder:raw   |Debates' scripts along with respective annotation files   |
+|   |requirements.txt   |Necessary Python frameworks and their versions   |
+|:file_folder: **data**   |:file_folder: **raw**   |Debates' scripts along with respective annotation files   |
 |   |sentence_db_candidate.csv   |Main dataset used   |
-|paper   |pdf   |Final report   |
+|:file_folder: **paper**   |pdf   |Final report   |
 |   |tex   |Tex code for the final report   |
-|presentations   |dec-presentation.pdf   |Slides for the first presentation |
+|:file_folder: **presentations**   |dec-presentation.pdf   |Slides for the first presentation |
 |   |feb-presentation.pdf   |Slides for the final presentation   |
 
 ## Replication 
