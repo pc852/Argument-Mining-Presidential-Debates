@@ -6,8 +6,9 @@
 
 |Folder   |Item   |Description   |
 |---|---|---|
-|code   |preprocessing.py   |Python snippet for texts preprocessing   |
-|   |:file_folder:experiments   |Notebooks for 4 experiments ×  2 tasks |
+|code   |:file_folder:experiments|Notebooks for 4 experiments ×  2 tasks |
+|   |linguistic_features.py |Documented functions for engineering linguistic features|
+|   |preprocessing.py |Code snippet for sentences preprocessing|
 |   |requirements.txt   |Used Python frameworks and their versions   |
 |data   |:file_folder:raw   |Debates' scripts along with respective annotation files   |
 |   |sentence_db_candidate.csv   |Main dataset used   |
