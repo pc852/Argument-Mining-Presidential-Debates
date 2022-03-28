@@ -26,3 +26,6 @@
 [Tags](https://web.archive.org/web/20190206204307/https://www.clips.uantwerpen.be/pages/mbsp-tags)
 [Paper](https://aclanthology.org/P19-1463/)
 [Connectives](https://github.com/discourse-lab/en_dimlex/blob/master/en_dimlex.xml)
+
+
+`$ git clone https://github.com/pc852/Argument-Mining-Presidential-Debates.git`
