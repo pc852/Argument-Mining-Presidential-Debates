@@ -24,16 +24,21 @@
 To reproduce the project, start by cloning the repository: 
 <br />
 `$ git clone https://github.com/pc852/Argument-Mining-Presidential-Debates.git`
-
-Next, we recommend running the experiments from Jupyter Notebook environment. 
-
+<br />
+Next, we recommend running the experiments from Jupyter Notebook environment. If you are new it, nice guideline can be found [here](https://www.dataquest.io/blog/jupyter-notebook-tutorial/).
+<br />
 To replicate the project, you will need `Python` version 3.7 or higher, and the following packages: `pandas`, `scikit-learn`, `nltk`, `keras`, `tensorflow`, `gensim`, `numpy`, `spacy`, `vadersentiment`. Our versions for them can be found [here](https://github.com/pc852/Argument-Mining-Presidential-Debates/blob/main/code/requirements.txt).
 
-Each notebook is tailored to be run independently when needed, however, you might need some additional preparations for certain experimental settings. 
+Each notebook is tailored to be run independently, however, you might need some additional preparations for certain experimental settings. 
 
+**For Setting 2 and 4, with engineered features**
 
+In order to compile Part-of-Speech and NER engineering functions, you should download the [model](https://spacy.io/usage) `en_core_web_sm`. 
 
-[FastText](https://fasttext.cc/docs/en/english-vectors.html)
+**For Setting 3, with LSTM model**
+
+You should download the pre-trained fasttext embeddings file `wiki-news-300d-1M.vec` and move it to project folder. [FastText](https://fasttext.cc/docs/en/english-vectors.html)
+
 
 [Dataset](https://github.com/ElecDeb60To16/Dataset) is kept here, but for all the experiments you will need only [this](https://github.com/pc852/Argument-Mining-Presidential-Debates/blob/main/data/sentence_db_candidate.csv) file.
 
