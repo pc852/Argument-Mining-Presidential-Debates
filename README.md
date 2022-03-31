@@ -22,6 +22,7 @@
 ## Replication 
 
 To reproduce the project, start by cloning the repository: 
+<br />
 `$ git clone https://github.com/pc852/Argument-Mining-Presidential-Debates.git`
 
 Next, we recommend running the experiments from Jupyter Notebook environment. 
