@@ -2,7 +2,7 @@
 
 ## Project Description 
 
-This project is dedicated to the problem of Argument Mining and is aimed at reproducing the [paper](https://aclanthology.org/P19-1463/) published by Haddadan et al. in 2019. We dataset is comprised of 39 speeches from the presidential debates in the US from the year 1960 to 2016. The corpus sentences are labels as claims, premises or none of above. 
+This project is dedicated to the problem of Argument Mining and is aimed at reproducing the [paper](https://aclanthology.org/P19-1463/) published by Haddadan et al. in 2019. The dataset is comprised of 39 speeches from the presidential debates in the US from the year 1960 to 2016. The corpus sentences are labeled as claims, premises or none of above. 
 
 Like the authors, we solve two binary classification tasks: 1) classification of argumentative vs. non-argumentative sentences; and 2) classification of claims vs. premises. 
 
