@@ -17,7 +17,7 @@ settings. The splits are based on different methodological approaches.
 
 **Setting 4**: tf-idf word matrices for uni-, bi- and trigrams and a set of engineered features + Feed Forward Network
 
-The project is carried out as a part of PM "Opinion and Argument Mining", taught by Prof. Dr. Manfred Stede at the University of Potsdam, Winter Term 2021/22. Our final report can be found [here](https://github.com/pc852/Argument-Mining-Presidential-Debates/blob/main/final-report.pdf). 
+The project is carried out as a part of PM "Mining Opinions and Arguments", taught by Prof. Dr. Manfred Stede at the University of Potsdam, Winter Term 2021/22. Our final report can be found [here](https://github.com/pc852/Argument-Mining-Presidential-Debates/blob/main/final-report.pdf). 
 
 *Team: Chen Peng, Mariia Poiaganova, Milena Voskanyan*
 
